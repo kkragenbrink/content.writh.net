@@ -1,4 +1,4 @@
-.phb#p1 .cover-art {
+.cover-art {
   position: absolute; 
   top: -30px; 
   left: -910px;
@@ -7,7 +7,7 @@
   z-index: 1; 
 }
 
-.phb#p1 .cover-logo {
+.cover-logo {
   position: absolute; 
   left: 0;
   bottom: 15%;
@@ -16,7 +16,7 @@
   z-index: 2;
 }
 
-.phb#p1 .dd-logo { 
+.cover-dd-logo { 
   position: absolute; 
   top: 50px; 
   left: 365px;
@@ -25,7 +25,7 @@
   z-index: 2; 
 }
 
-.phb#p1 .title-callout {
+.cover-title-callout {
   position: absolute;
   top: 150px;
   left: 215px;
@@ -34,7 +34,7 @@
   z-index: 2;
 }
 
-.phb#p1 .header, .phb#p1 .subtitle {
+.cover-header, .cover-subtitle {
   position: absolute;
   left: 0;
   text-align: center;
@@ -49,16 +49,14 @@
   z-index: 2;
 }
 
-.phb#p1 .header { 
+.cover-header { 
   font-family: "Bookinsanity";
   font-size: 3.5em;
   top: 100px;
   text-transform: uppercase;
 }
 
-.phb#p1 .subtitle {
+.cover-subtitle {
   font-size: 1.5em;
   bottom: 50px;
 }
-
-.phb#p1:after { display: none; }
