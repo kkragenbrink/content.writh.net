@@ -38,7 +38,7 @@
 /************************
  * PAGE 4
  ************************/
-.sword-coast-map { 
+.phb#p5 .sword-coast-map { 
   position: absolute;
   width: 80%;
   left: 50%;
@@ -47,9 +47,23 @@
 }
 
 /************************
+ * PAGE 6
+ ************************/
+.phb#p7 .gundren {
+  mix-blend-mode: darken;
+  position: absolute;
+  width: 400px;
+}
+.phb#p7 .sildar {
+  mix-blend-mode: darken;
+  position: absolute;
+  width: 400px;
+}
+
+/************************
  * PAGE 8
  ************************/
-.shrike {
+.phb#p9 .shrike {
   mix-blend-mode: darken; 
   position: absolute; 
   clip: rect(0px,350px,750px,0px); 
