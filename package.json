@@ -1,0 +1,27 @@
+{
+  "name": "content.writh.net",
+  "version": "0.1.0",
+  "description": "static file content",
+  "main": "bin/trigger.js",
+  "bin": {
+    "content.writh.net": "trigger.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkragenbrink/content.writh.net.git"
+  },
+  "author": "Kevin Kragenbrink <kevin@writh.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kkragenbrink/content.writh.net/issues"
+  },
+  "homepage": "https://github.com/kkragenbrink/content.writh.net#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "git-pull": "^0.1.0",
+    "supervisor": "^0.12.0"
+  }
+}
