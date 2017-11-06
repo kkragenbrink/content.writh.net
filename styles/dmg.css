@@ -1,0 +1,15 @@
+/* Background */
+.phb{ background-image: url("http://i.imgur.com/UCIUXyr.jpg") }
+.phb{ background-size: cover }
+
+/* Notes */
+.phb blockquote {background-color: #ebcec3}
+.phb hr + blockquote tr:nth-child(odd) td {background-color: #FDF1DC;}
+
+/* Tables */
+table tr:nth-child(odd) td {background-color: #ebcec3}
+
+/* Footer */
+.phb .pageNumber {color: rgba(0, 0, 0, 0.6)}
+.phb .footnote {color: rgba(0, 0, 0, 0.6)}
+.phb:after{ background-image: url("http://i.imgur.com/EsLXSby.png") }
