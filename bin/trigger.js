@@ -31,6 +31,7 @@ async function update (req, res) {
     await fixPermissions(PATH);
 
     res.statusCode = 204;
+    res.send('');
 }
 
 async function service (req, res) {
