@@ -52,23 +52,31 @@
 .phb#p7 .reidoth {
   mix-blend-mode: darken;
   position: absolute;
-  width: 300px;
   bottom: 10px;
-  left: 0;
+  width: 200px; 
+  left: -25px;
 }
+
 .phb#p7 .gundren {
   mix-blend-mode: darken;
   position: absolute;
-  width: 275px;
-  left: 215px;
+  width: 175px;
+  left: 160px;
   bottom: 20px;
-  transform: scaleX(-1);
+}
+
+.phb#p7 .halia-harbin {
+  mix-blend-mode: darken;
+  position: absolute;
+  width: 295px;
+  left: 290px;
+  bottom: 20px;
 }
 
 .phb#p7 .sildar {
   mix-blend-mode: darken;
   position: absolute;
-  width: 275px;
+  width: 190px;
   right: -15px;
   bottom: 20px;
 }
@@ -76,10 +84,10 @@
 .phb#p7 .yegg {
   mix-blend-mode: darken;
   position: absolute;
-  width: 175px;
+  width: 120px;
   transform: scaleX(-1);
   bottom: 25px;
-  right: 210px;
+  right: 160px;
 }
 
 /************************
