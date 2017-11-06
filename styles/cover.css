@@ -1,4 +1,11 @@
-.cover-art {
+.cover-art, .back-cover-art {
+  position: absolute; 
+  height: 11.5in; 
+  width: auto; 
+  z-index: 1; 
+}
+
+. {
   position: absolute; 
   height: 11.5in; 
   width: auto; 
@@ -60,16 +67,16 @@
 }
 
 .inner-cover-art {
-    position: absolute;
-    height: 60%;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    mix-blend-mode: darken;
+  position: absolute;
+  height: 60%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  mix-blend-mode: darken;
 }
 
 .inner-cover-logo {
-	position: absolute;
+  position: absolute;
   width: 75px;
   height: 75px;
   bottom: 50px;
