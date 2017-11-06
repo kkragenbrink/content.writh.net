@@ -17,6 +17,7 @@
 .phb#p2:after { display: none; }
 .phb#p3:after { display: none; }
 .phb#p4:after { display: none; }
+.phb:last-of-type:after { display: none; }
 
 /* Disable columns on these pages. */
 .phb#p5 { column-count: 1; -moz-column-count: 1; -webkit-column-count: 1; }
