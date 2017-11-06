@@ -49,30 +49,36 @@
 /************************
  * PAGE 6
  ************************/
-.phb#p7 .gundren {
+.phb#p7 .reidoth {
   mix-blend-mode: darken;
   position: absolute;
   width: 300px;
-  right: 420px;
+  bottom: 10px;
+  left: 0;
+}
+.phb#p7 .gundren {
+  mix-blend-mode: darken;
+  position: absolute;
+  width: 275px;
+  left: 215px;
   bottom: 20px;
-  z-index: 3;
   transform: scaleX(-1);
 }
 .phb#p7 .sildar {
   mix-blend-mode: darken;
   position: absolute;
-  width: 315px;
-  right: 0;
+  width: 275px;
+  right: =15px;
   bottom: 20px;
-  z-index: 2;
 }
+
 .phb#p7 .yegg {
     mix-blend-mode: darken;
     position: absolute;
-    width: 200px;
+    width: 175px;
     transform: scaleX(-1);
     bottom: 25px;
-    right: 270px;
+    right: 210px;
 }
 
 /************************
