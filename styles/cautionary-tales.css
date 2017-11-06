@@ -4,6 +4,11 @@
   right: 0;
 }
 
+.back-cover-art {
+  top: -30px;
+  left: 0;
+}
+
 
 /* Disable footers on these pages. */
 .phb#p1:after { display: none; }
