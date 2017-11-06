@@ -25,6 +25,14 @@
 /* Page 2 is really Page 1. Thanks Covers. */
 .phb#p2 { counter-reset: phb-page-numbers; }
 
+/* Magic Items need Labels */
+.magic-item-label {
+  font-family: ScalySans;
+  font-variant: small-caps;
+  font-size: 9pt;
+  letter-spacing: 1px;
+}
+
 /************************
  * PAGE 4
  ************************/
