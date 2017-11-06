@@ -45,3 +45,15 @@
   transform: translate(-50%, -50%);
   top: 50%;
 }
+
+/************************
+ * PAGE 8
+ ************************/
+.shrike {
+  mix-blend-mode: darken; 
+  position: absolute; 
+  clip: rect(0px,350px,750px,0px); 
+  right: -400px; top: 25px; 
+  width: 800px; 
+  z-index: 2;
+}
