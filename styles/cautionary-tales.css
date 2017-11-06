@@ -1,8 +1,8 @@
-// Disable footers on these pages.
+/* Disable footers on these pages. */
 .phb#p1:after { display: none; }
 .phb#p2:after { display: none; }
 .phb#p3:after { display: none; }
 .phb#p4:after { display: none; }
 
-// Page 2 is really Page 1. Thanks Covers.
+/* Page 2 is really Page 1. Thanks Covers. */
 .phb#p2 { counter-reset: phb-page-numbers; }
