@@ -18,5 +18,8 @@
 .phb#p3:after { display: none; }
 .phb#p4:after { display: none; }
 
+/* Disable columns on these pages. */
+.phb#p5 { column-count: 1; -moz-column-count: 1; -webkit-column-count: 1; }
+
 /* Page 2 is really Page 1. Thanks Covers. */
 .phb#p2 { counter-reset: phb-page-numbers; }
