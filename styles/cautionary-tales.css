@@ -64,21 +64,22 @@
   bottom: 20px;
   transform: scaleX(-1);
 }
+
 .phb#p7 .sildar {
   mix-blend-mode: darken;
   position: absolute;
   width: 275px;
-  right: =15px;
+  right: -15px;
   bottom: 20px;
 }
 
 .phb#p7 .yegg {
-    mix-blend-mode: darken;
-    position: absolute;
-    width: 175px;
-    transform: scaleX(-1);
-    bottom: 25px;
-    right: 210px;
+  mix-blend-mode: darken;
+  position: absolute;
+  width: 175px;
+  transform: scaleX(-1);
+  bottom: 25px;
+  right: 210px;
 }
 
 /************************
