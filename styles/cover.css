@@ -1,7 +1,7 @@
 .cover-art {
   position: absolute; 
-  top: -30px; 
-  left: -910px;
+  top: 0px;
+  left: 0px;
   height: 11.5in; 
   width: auto; 
   z-index: 1; 
