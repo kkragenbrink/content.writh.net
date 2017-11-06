@@ -9,6 +9,8 @@
   right: -8.5in;
 }
 
+/* Recolor the footers */
+.phb:after { filter: hue-rotate(180deg); }
 
 /* Disable footers on these pages. */
 .phb#p1:after { display: none; }
