@@ -23,3 +23,14 @@
 
 /* Page 2 is really Page 1. Thanks Covers. */
 .phb#p2 { counter-reset: phb-page-numbers; }
+
+/************************
+ * PAGE 4
+ ************************/
+.sword-coast-map { 
+  position: absolute;
+  width: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  top: 50%;
+}
