@@ -26,7 +26,7 @@ async function fixPermissions (path) {
     return await Bluebird.all(files.map(async (file) => await fixPermissions(`${path}/${file}`)));
 }
 
-async function getPull (req, res) {
+async function update (req, res) {
     await pull(PATH);
     await fixPermissions(PATH);
 
@@ -37,7 +37,7 @@ async function service (req, res) {
     req.pathinfo = url.parse(req.url);
 
     try {
-        console.log(`--> ${req.method} ${req.pathinfo.pathname}`);
+        console.log(`--> [${req.connection.remoteAddress}] ${req.method} ${req.pathinfo.pathname}`);
         const handler = routes[`${req.method.toUpperCase()} ${req.pathinfo.pathname}`];
         await handler(req, res);
         console.log(`<-- ${res.statusCode}`);
@@ -48,7 +48,8 @@ async function service (req, res) {
 }
 
 const routes = {
-    'GET /pull' : getPull
+    'GET /pull' : update,
+    'POST /pull' : update
 };
 
 const server = http.createServer(service);
