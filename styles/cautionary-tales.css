@@ -1,3 +1,9 @@
+/* Position the cover art */
+.cover-art {
+  right: -910px;
+}
+
+
 /* Disable footers on these pages. */
 .phb#p1:after { display: none; }
 .phb#p2:after { display: none; }
