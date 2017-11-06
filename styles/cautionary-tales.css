@@ -10,7 +10,7 @@
 }
 
 /* Recolor the footers */
-.phb:after { filter: hue-rotate(180deg); }
+.phb:after { filter: hue-rotate(205deg); } /* Makes it my color! */
 
 /* Disable footers on these pages. */
 .phb#p1:after { display: none; }
