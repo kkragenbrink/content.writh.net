@@ -1,0 +1,9 @@
+.phb hr + blockquote tr:nth-child(odd) td { background-color: transparent; }
+.phb hr+blockquote {
+  background-color: transparent;
+  background-image: url(https://i.imgur.com/2fpZqkh.jpg);
+  background-position: center center; 
+  border-width: 6px;
+  border-image: url(https://i.imgur.com/gtHyLi6.png);
+  border-image-slice: 20;
+}
