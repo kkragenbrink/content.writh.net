@@ -13,10 +13,10 @@
   },
   {
     "count": 1,
-    "title": "Favored Enemy",
+    "title": "Great Weapon Fighting",
     "contents": [
-      "text | You have significant experience studying, tracking, hunting, and even talking to a certain type of enemy commonly encountered in the wilds.",
-      "text | You gain a +2 bonus to damage rolls with weapon attacks against Animalkin. Additionally, you have advantage on Wisdom (Survival) checks to track Animalkin, as well as on Intelligence checks to recall information about them."
+      "text | When you roll a 1 or 2 on a damage die for an Attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the Two-Handed or Versatile property for you to gain this benefit.",
+      ""
     ],
     "tags": [
       "class"
@@ -30,6 +30,19 @@
     "contents": [
       "text | You may spend spell points as a bonus action to make a charging leap towards another creature. You leap 10 feet, plus an additional 5 feet for each spell level higher than 1st, to a maximum of 30 feet.  You must end this leap adjacent to another creature.",
       "text | Your next melee attack before the end of your turn deals an additional 1d8 force damage for every 5 feet of distance you traveled. If the target is prone, the damage increases by an additional 1d8."
+    ],
+    "tags": [
+      "class"
+    ],
+    "color": "OliveDrab",
+    "icon": "class-ranger"
+  },
+  {
+    "count": 1,
+    "title": "Favored Enemy",
+    "contents": [
+      "text | You have significant experience studying, tracking, hunting, and even talking to a certain type of enemy commonly encountered in the wilds.",
+      "text | You gain a +2 bonus to damage rolls with weapon attacks against Animalkin. Additionally, you have advantage on Wisdom (Survival) checks to track Animalkin, as well as on Intelligence checks to recall information about them."
     ],
     "tags": [
       "class"
@@ -103,30 +116,23 @@
   },
   {
     "count": 1,
-    "title": "Great Weapon Fighting",
+    "title": "Quiver",
     "contents": [
-      "text | When you roll a 1 or 2 on a damage die for an Attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the Two-Handed or Versatile property for you to gain this benefit.",
-      ""
-    ],
-    "tags": [
-      "class"
-    ],
-    "color": "OliveDrab",
-    "icon": "class-ranger"
-  },
-  {
-    "count": 1,
-    "title": "Dungeoneer's Pack",
-    "contents": [
-      "subtitle | Equipment (12 gp)",
+      "subtitle | Equipment (2 gp)",
       "rule | ",
-      "text | Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it."
+      "text | A quiver can hold up to 20 arrows.",
+      "fill | 1",
+      "boxes | 5",
+      "boxes | 5",
+      "boxes | 5",
+      "boxes | 5",
+      "fill | 1"
     ],
     "tags": [
       "equipment"
     ],
     "color": "dimgray",
-    "icon": "mixed-swords"
+    "icon": "quiver"
   },
   {
     "count": 1,
@@ -150,25 +156,17 @@
   },
   {
     "count": 1,
-    "title": "Long Spear",
+    "title": "Dungeoneer's Pack",
     "contents": [
-      "subtitle | Martial Melee Weapon (10 gp)",
-      "rule |",
-      "property | Damage | 1d10 piercing",
-      "property | Modfiier | Strength",
-      "property | Properties | Heavy, reach, two-handed",
-      "rule |",
-      "fill | 1",
-      "description | Heavy | Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-      "description | Reach | This weapon adds 5 feet to your reach when you attack with it.",
-      "description | Two-handed. | This weapon requires two hands to use.",
-      "fill | 1"
+      "subtitle | Equipment (12 gp)",
+      "rule | ",
+      "text | Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it."
     ],
     "tags": [
       "equipment"
     ],
     "color": "dimgray",
-    "icon": "crossed-swords"
+    "icon": "backpack"
   },
   {
     "count": 1,
@@ -188,6 +186,28 @@
     ],
     "color": "dimgray",
     "icon": "scale-mail"
+  },
+  {
+    "count": 1,
+    "title": "Long Spear",
+    "contents": [
+      "subtitle | Martial Melee Weapon (10 gp)",
+      "rule |",
+      "property | Damage | 1d10 piercing",
+      "property | Modfiier | Strength",
+      "property | Properties | Heavy, reach, two-handed",
+      "rule |",
+      "fill | 1",
+      "description | Heavy | Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
+      "description | Reach | This weapon adds 5 feet to your reach when you attack with it.",
+      "description | Two-handed. | This weapon requires two hands to use.",
+      "fill | 1"
+    ],
+    "tags": [
+      "equipment"
+    ],
+    "color": "dimgray",
+    "icon": "crossed-swords"
   },
   {
     "count": 1,
