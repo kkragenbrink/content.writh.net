@@ -1,9 +1,7 @@
-.phb hr + blockquote tr:nth-child(odd) td { background-color: transparent; }
-.phb hr+blockquote {
-  background-color: transparent;
-  background-image: url(https://i.imgur.com/2fpZqkh.jpg);
-  background-position: center center; 
-  border-width: 6px;
-  border-image: url(https://i.imgur.com/gtHyLi6.png);
-  border-image-slice: 20;
-}
+.phb hr + blockquote:after { display: none; }
+.phb hr + blockquote h4 { margin: 0; }
+.phb hr + blockquote h4 { }
+.phb hr + blockquote h4 code { float: right; visibility: visible; }
+.phb hr + blockquote hr { background-image: none; background-color: maroon; height: 2px; margin: 2px; }
+.phb hr + blockquote p, .phb hr + blockquote p + p { text-indent: -1em; padding-left: 1em; padding-bottom: 0; margin-bottom: 0; }
+.phb hr + blockquote p + blockquote { background: none; border: none; box-shadow: none; padding: 0 10px; margin: 0; }
