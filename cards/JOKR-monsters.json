@@ -1,0 +1,114 @@
+[
+  {
+    "count": 1,
+    "color": "Maroon",
+    "title": "Animated Armor",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium construct",
+      "rule",
+      "property | Armor class | 18 (natural armor)",
+      "property | Hit points | 33 (6d8 + 6)",
+      "rule",
+      "dndstats | 14 | 11 | 13 | 1 | 3 | 1",
+      "rule",
+      "property | Damage Immunities | poison, psychic",
+      "property | Condition Immunities | blinded, charmed, deafened, exhausted, frightened, paralyzed, petrified, poisoned",
+      "property | Challenge | 1 (200 XP)",
+      "rule",
+      "description | Antimagic Susceptibility | The armor is incapacitated while in an area of an <i>antimagic field</i> If targeted by <i>dispel magic</i>, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.",
+      "description | False Appearance | While the armor remains motionless it is indistinguishable from a normal suit of armor.",
+      "fill | 2",
+      "section | Actions",
+      "description | Multiattack | The armor makes two melee attacks.",
+      "description | Slam | Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage."
+    ],
+    "tags": [
+      "creature",
+      "humanoid"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Maroon",
+    "title": "Batlin",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Small humanoid",
+      "rule",
+      "property | Armor class | 13 (leather armor)",
+      "property | Hit points | 7 (2d6)",
+      "rule",
+      "dndstats | 8 | 14 | 10 | 10 | 8 | 8",
+      "rule",
+      "property | Skills | Stealth +6",
+      "property | Challenge | 1/4 (50 XP)",
+      "rule",
+      "description | Glide | Batlin can control their fall, and do not take damage when falling. They can move 30 feet horizontally for every 30 feet they fall.",
+      "description | Nimble escape | Disengage or Hide as bonus action",
+      "description | Sneak Attack (1/turn) | When a batlin has advantage on his attack, or when an enemy of his target is adjacent to his target, the Batlin deals an additional 1d6 sneak attack damage.",
+      "fill | 2",
+      "section | Actions",
+      "description | Bite | Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+      "description | Shortbow | Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage"
+    ],
+    "tags": [
+      "creature",
+      "humanoid"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Maroon",
+    "title": "Bearbarian",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Large giant",
+      "rule",
+      "property | Armor class | 12 (hide armor)",
+      "property | Hit points | 30 (4d10 + 8)",
+      "rule",
+      "dndstats | 17 | 10 | 14 | 7 | 9 | 10",
+      "rule",
+      "property | Challenge | 1 (200 XP)",
+      "rule",
+      "description | Reckless | At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.",
+      "fill | 2",
+      "section | Actions",
+      "description | Battleaxe | Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage if used with two hands.",
+      "description | Javelin | Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft., or range 30/120 ft., one target. Hit: 10 (2d6 + 3) piercing damage."
+    ],
+    "tags": [
+      "creature",
+      "humanoid"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Maroon",
+    "title": "Skeleton",
+    "icon": "imp-laugh",
+    "contents": [
+      "subtitle | Medium undead",
+      "rule",
+      "property | Armor class | 13 (armor scraps)",
+      "property | Hit points | 13 (2d8 + 4)",
+      "rule",
+      "dndstats | 10 | 14 | 15 | 6 | 8 | 5",
+      "rule",
+      "property | Damage Vulnerabilities | bludgeoning",
+      "property | Damage Immunities | poison",
+      "property | Condition Immunities | exhausted",
+      "property | Challenge | 1/4 (50 xp)",
+      "rule",
+      "fill | 2",
+      "section | Actions",
+      "description | Shortsword | Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+      "description | Shortbow | Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+    ],
+    "tags": [
+      "creature",
+      "humanoid"
+    ]
+  }
+]
