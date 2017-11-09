@@ -124,7 +124,7 @@
 .phb#p8 .rune-carver {
   position: absolute; 
   top: 90px; 
-  right: 95px; 
+  right: 55px; 
   width: 400px;
   -ms-transform: rotate(-15deg); /* IE 9 */
   -webkit-transform: rotate(-15deg); /* Chrome, Safari, Opera */
@@ -134,7 +134,7 @@
 .phb#p8 .talon {
   position: absolute; 
   top: 75px; 
-  right: -100px; 
+  right: -70px; 
   width: 350px;
   -ms-transform: rotate(50deg); /* IE 9 */
   -webkit-transform: rotate(50deg); /* Chrome, Safari, Opera */
