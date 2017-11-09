@@ -59,6 +59,7 @@
 .phb#p5 .map-label {
   color: rgb(64, 0, 0);
   position: absolute;
+  font-variant: small-caps;
 }
 
 /************************
