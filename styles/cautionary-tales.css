@@ -17,8 +17,8 @@
 .phb#p2:after { display: none; }
 .phb#p3:after { display: none; }
 .phb#p4:after { display: none; }
-.phb#p9:after { display: none; }
-.phb#p12:after { display: none; }
+.phb#p10:after { display: none; }
+.phb#p13:after { display: none; }
 .phb:last-of-type:after { display: none; }
 
 /* Disable columns on these pages. */
@@ -108,9 +108,9 @@
 }
 
 /************************
- * PAGE 8
+ * PAGE 9
  ************************/
-.phb#p9 .shrike {
+.phb#p10 .shrike {
   mix-blend-mode: darken; 
   position: absolute; 
   clip: rect(0px,350px,750px,0px); 
