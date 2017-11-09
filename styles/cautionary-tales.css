@@ -57,9 +57,10 @@
 }
 
 .phb#p5 .map-label {
-  color: rgb(64, 0, 0);
-  position: absolute;
+  color: rgb(96, 0, 0);
   font-variant: small-caps;
+  position: absolute;
+  text-shadow: 0 0 4px gainsboro;
 }
 
 /************************
