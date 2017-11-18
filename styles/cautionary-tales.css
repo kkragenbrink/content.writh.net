@@ -1,12 +1,12 @@
 /* Position the cover art */
 .cover-art {
   top: -30px;
-  right: 0;
+  right: -0.5in;
 }
 
 .back-cover-art {
   top: -30px;
-  right: -8.5in;
+  right: -9in;
 }
 
 /* Recolor the footers */
