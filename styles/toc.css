@@ -53,5 +53,6 @@
   margin-bottom: initial !important;	/*margin for list items needs to be removed or 0*/
 }
 
-.toc li h4 { font-size: 12pt; }
-.toc li h5 { font-size: 14pt; }
+.toc li h4 { font-size: 14pt; }
+.toc li h5 { font-size: 11pt; }
+.toc li h6 { font-size: 9pt; }
