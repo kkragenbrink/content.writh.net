@@ -1,13 +1,13 @@
 /* Position the cover art */
 .cover-art {
   top: 0;
-  right: 0;
+  right: -1in;
   transform: scaleX(-1);
 }
 
 .back-cover-art {
   top: 0;
-  right: -8.5in;
+  right: -9.5in;
   transform: scaleX(-1);
 }
 
