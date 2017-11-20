@@ -6,6 +6,10 @@
 .phb:first-of-type:after { display: none; }
 .phb:last-of-type:after { display: none; }
 
+/* inner cover */ .phb:nth-child(2):after { display: none; }
+/* credits */ .phb:nth-child(3):after { display: none; }
+/* toc */ .phb:nth-child(4):after { display: none; }
+
 /**
  * THREE SPIRITS ADEPT
  **/
