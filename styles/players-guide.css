@@ -4,6 +4,7 @@
 .cover-art { bottom: 0; right: -3.25in; }
 .back-cover-art { bottom: 0; right: -11.75in; }
 .phb:first-of-type:after { display: none; }
+.phb:last-of-type:after { display: none; }
 
 /**
  * THREE SPIRITS ADEPT
