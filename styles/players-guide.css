@@ -35,6 +35,7 @@
   width: 100%;
   height: auto;
   z-index: 5;
+  mix-blend-mode: overlay;
   -webkit-mask-image:-webkit-gradient(linear, left bottom, left top, from(rgba(0,0,0,1)), to(rgba(0,0,0,0))) 
 }
 
