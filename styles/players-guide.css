@@ -16,6 +16,19 @@
 .quote::first-line { font-variant: small-caps; }
 
 /**
+ * BARD
+ **/
+.bard {
+  position: absolute;
+  right: 0;
+  top: 50px;
+  width: 500px;
+  mix-blend-mode: darken;
+  transform: scaleX(-1);
+  z-index: 20;
+}
+
+/**
  * WIZARD
  **/
 .wizard {
