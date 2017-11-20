@@ -90,3 +90,8 @@
   top: 180px;
   text-shadow: none;
 }
+
+/** Start counting pages on page 2. **/
+.phb#p2 { counter-reset: phb-page-numbers; }
+.phb:nth-child(even):after { transform: scaleX(1); }
+.phb:nth-child(odd):after { transform: scaleX(-1); }
