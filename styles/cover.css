@@ -93,5 +93,11 @@
 
 /** Start counting pages on page 2. **/
 .phb#p2 { counter-reset: phb-page-numbers; }
+
+/** Fix the page number orientations **/
 .phb:nth-child(even):after { transform: scaleX(1); }
 .phb:nth-child(odd):after { transform: scaleX(-1); }
+.phb:nth-child(even) .pageNumber { left: auto; }
+.phb:nth-child(odd) .pageNumber { left: 2px; }
+.phb:nth-child(even) .footnote { left: auto; text-align: right; }
+.phb:nth-child(odd) .footnote { left: 80px; text-align: left; }
