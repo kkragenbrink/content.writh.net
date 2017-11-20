@@ -3,4 +3,5 @@ img.three-spirits-adept {
   bottom: 0;
   right: 0;
   width: 65%;
+  z-index: 20;
 }
