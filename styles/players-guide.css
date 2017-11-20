@@ -5,3 +5,10 @@ img.three-spirits-adept {
   width: 65%;
   z-index: 20;
 }
+
+.three-spirits-adept-credits {
+    width: 250px;
+    margin: 15px auto 0;
+    position: relative;
+    z-index: 25;
+}
