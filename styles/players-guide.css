@@ -1,4 +1,12 @@
 /**
+ * COVER
+ **/
+.cover-art {
+  bottom: 0;
+  right: 0;
+}
+
+/**
  * THREE SPIRITS ADEPT
  **/
 .phb div.three-spirits-adept-tables td:first-of-type { width: 25%; }
