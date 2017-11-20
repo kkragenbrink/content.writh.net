@@ -30,6 +30,7 @@
 .phb img.three-spirits-adept {
   position: absolute;
   right: 0;
+  bottom: 0;
   width: 65%;
   z-index: 20;
 }
