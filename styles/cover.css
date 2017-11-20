@@ -39,7 +39,7 @@
   z-index: 2;
 }
 
-.cover-header, .inner-cover-header, .cover-subtitle {
+.cover-header, .inner-cover-header, .cover-subtitle, .inner-cover-author {
   position: absolute;
   left: 0;
   text-align: center;
@@ -68,7 +68,7 @@
 
 .inner-cover-art {
   position: absolute;
-  height: 60%;
+  height: 50%;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -81,4 +81,11 @@
   bottom: 50px;
   left: 50%;
   transform: translate(-50%, 0%);
+}
+
+.inner-cover-author {
+  color: #58180D;
+  font-size: 16pt;
+  font-variant: small-caps;
+  top: 180px;
 }
