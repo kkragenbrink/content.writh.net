@@ -16,6 +16,29 @@
 .quote::first-line { font-variant: small-caps; }
 
 /**
+ * WIZARD
+ **/
+.wizard {
+  position: absolute;
+  right: 0;
+  top: 50px;
+  width: 500px;
+  mix-blend-mode: darken;
+  transform: scaleX(-1);
+  z-index: 20;
+}
+
+.library-concept {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  z-index: 5;
+  -webkit-mask-image:-webkit-gradient(linear, left bottom, left top, from(rgba(0,0,0,1)), to(rgba(0,0,0,0))) 
+}
+
+/**
  * THREE SPIRITS ADEPT
  **/
 .phb div.three-spirits-adept-tables td:first-of-type { width: 25%; }
