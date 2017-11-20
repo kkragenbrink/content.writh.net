@@ -34,3 +34,29 @@
   width: 60%;
   z-index: 20;
 }
+
+.three-spirits-adept-callout {
+    position: absolute;
+    left: 150px;
+    bottom: 50px;
+    transform: rotate(5deg);
+    width: 252px;
+}
+
+.three-spirits-adept-callout p, .three-spirits-adept-callout h4 {
+    position: relative;
+    z-index: 15;
+}
+
+.three-spirits-adept-callout:after {
+    background-image: url(https://content.writh.net/images/players-guide/callout.png);
+    content: "";
+    display: block;
+    width: 300px;
+    height: 181px;
+    background-size: 300px 181px;
+    position: absolute;
+    left: -30px;
+    top: -45px;
+    transform: rotate(-13deg);
+}
