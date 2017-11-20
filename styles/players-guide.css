@@ -1,14 +1,19 @@
-.phb img.three-spirits-adept {
-  position: absolute;
-  bottom: -50px;
-  right: 0;
-  width: 65%;
-  z-index: 20;
-}
+/**
+ * THREE SPIRITS ADEPT
+ **/
+.phb div.three-spirits-adept-tables td:first-of-type { width: 25%; }
 
 .phb blockquote.three-spirits-adept-credits {
   width: 250px;
   margin: 15px auto 0;
   position: relative;
   z-index: 25;
+}
+
+.phb img.three-spirits-adept {
+  position: absolute;
+  bottom: -50px;
+  right: 0;
+  width: 65%;
+  z-index: 20;
 }
