@@ -1,10 +1,8 @@
 /**
  * COVER
  **/
-.cover-art {
-  bottom: 0;
-  right: 0;
-}
+.cover-art { bottom: 0; right: -3.25in; }
+.phb:first-of-type:after { display: none; }
 
 /**
  * THREE SPIRITS ADEPT
