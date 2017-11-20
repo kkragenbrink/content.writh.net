@@ -1,4 +1,4 @@
-img.three-spirits-adept {
+.phb img.three-spirits-adept {
   position: absolute;
   bottom: -50px;
   right: 0;
@@ -6,7 +6,7 @@ img.three-spirits-adept {
   z-index: 20;
 }
 
-.three-spirits-adept-credits {
+.phb blockquote.three-spirits-adept-credits {
   width: 250px;
   margin: 15px auto 0;
   position: relative;
