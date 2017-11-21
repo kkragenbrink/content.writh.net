@@ -46,6 +46,18 @@
 }
 
 /**
+ * RANGER
+ **/
+.ranger {
+  position: absolute;
+  right: 0;
+  top: 350px;
+  width: 500px;
+  mix-blend-mode: darken;
+  z-index: 20;
+}
+
+/**
  * WIZARD
  **/
 .wizard {
