@@ -51,10 +51,9 @@
 .ranger {
   position: absolute;
   left: 0;
-  top: 270px;
-  width: 500px;
+  bottom: 25px;
+  width: 350px;
   mix-blend-mode: darken;
-  z-index: 20;
 }
 
 /**
