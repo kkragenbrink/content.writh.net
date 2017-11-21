@@ -21,7 +21,7 @@
 .bard {
   position: absolute;
   right: 0;
-  top: 350px;
+  top: 375px;
   width: 500px;
   mix-blend-mode: darken;
   z-index: 20;
@@ -50,8 +50,8 @@
  **/
 .ranger {
   position: absolute;
-  right: 0;
-  top: 350px;
+  left: 0;
+  top: 260px;
   width: 500px;
   mix-blend-mode: darken;
   z-index: 20;
