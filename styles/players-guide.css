@@ -28,6 +28,24 @@
 }
 
 /**
+ * COLLEGE CHARITY
+ **/
+.college-of-charity {
+  position: absolute;
+  width: 60%;
+  bottom: 0;
+  left: 20%;
+}
+
+.college-of-charity-overlay {
+  position: absolute;
+  left: -12.5%;
+  top: -30%;
+  width: 125%;
+  height: 175%; 
+}
+
+/**
  * WIZARD
  **/
 .wizard {
