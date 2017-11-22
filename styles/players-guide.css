@@ -4,7 +4,7 @@
 .phb .cover-contents {
   column-span: all;
   text-align: center;
-  margin-top: 131px;
+  margin-top: 160px;
   text-shadow: 1px 1px #000, -1px 1px #000, 1px -1px #000, -1px -1px #000;
 }
 .phb .cover-contents a, .cover-contents a:visited { color: white; text-decoration: none; }
