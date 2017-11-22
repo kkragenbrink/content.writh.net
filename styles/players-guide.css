@@ -1,14 +1,13 @@
 /**
  * COVER
  **/
-.phb .cover-contents {
-  column-span: all;
-  text-align: center;
-  margin-top: 160px;
-  text-shadow: 1px 1px #000, -1px 1px #000, 1px -1px #000, -1px -1px #000;
+.phb .contents-link {
+  position: fixed;
+    top: 60px;
+    width: 200px;
 }
-.phb .cover-contents a, .cover-contents a:visited { color: white; text-decoration: none; }
-.cover-contents a:hover { text-decoration: underline; }
+.phb .contents-link a, .phb .contents-link a:visited { color: white; text-decoration: none; }
+.phb .contents-link a:hover { text-decoration: underline; }
 .cover-art { bottom: 0; right: -3.25in; }
 .back-cover-art { bottom: 0; right: -11.75in; }
 .phb:first-of-type:after { display: none; }
