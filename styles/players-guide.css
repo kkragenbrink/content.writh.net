@@ -30,19 +30,26 @@
 /**
  * COLLEGE CHARITY
  **/
-.college-of-charity {
+.phb .college-of-charity {
   position: absolute;
   width: 60%;
   bottom: 0;
   left: 20%;
 }
 
-.college-of-charity-overlay {
+.phb .college-of-charity-overlay {
   position: absolute;
   left: -12.5%;
   top: -30%;
   width: 125%;
   height: 175%; 
+}
+
+.phb blockquote.college-of-charity-credits {
+  position: absolute;
+  bottom: 150px;
+  right: 50px;
+  width: 200px;
 }
 
 /**
@@ -101,27 +108,27 @@
 }
 
 .three-spirits-adept-callout {
-    position: absolute;
-    left: 150px;
-    bottom: 50px;
-    transform: rotate(5deg);
-    width: 252px;
+  position: absolute;
+  left: 150px;
+  bottom: 50px;
+  transform: rotate(5deg);
+  width: 252px;
 }
 
 .three-spirits-adept-callout p, .three-spirits-adept-callout h4 {
-    position: relative;
-    z-index: 15;
+  position: relative;
+  z-index: 15;
 }
 
 .three-spirits-adept-callout:after {
-    background-image: url(https://content.writh.net/images/players-guide/callout.png);
-    content: "";
-    display: block;
-    width: 300px;
-    height: 181px;
-    background-size: 300px 181px;
-    position: absolute;
-    left: -30px;
-    top: -45px;
-    transform: rotate(-13deg);
+  background-image: url(https://content.writh.net/images/players-guide/callout.png);
+  content: "";
+  display: block;
+  width: 300px;
+  height: 181px;
+  background-size: 300px 181px;
+  position: absolute;
+  left: -30px;
+  top: -45px;
+  transform: rotate(-13deg);
 }
