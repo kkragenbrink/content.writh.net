@@ -102,7 +102,9 @@
 .phb blockquote.three-spirits-adept-credits {
   width: 250px;
   margin: 15px auto 0;
-  position: relative;
+  position: absolute;
+  bottom: 60px;
+  right: 80px;
   z-index: 25;
 }
 
