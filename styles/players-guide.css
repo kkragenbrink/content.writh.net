@@ -23,6 +23,17 @@
 .quote::first-line { font-variant: small-caps; }
 
 /**
+ * TIBBIT
+ **/
+.phb img.tibbit-header {
+  position: absolute;
+  width: 100%;
+  height: auto;
+  top: 0;
+  left: 0;
+}
+
+/**
  * BARD
  **/
 .bard {
