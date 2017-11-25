@@ -32,7 +32,74 @@
   top: 0;
   left: 0;
 }
-
+.phb img.tibbit-overlay1 {
+  position: absolute;
+  top: 438px;
+  width: 300px;
+  transform: scaleY(-1);
+  left: -86px;
+}
+.phb img.tibbit-overlay2 {
+  width: 300px;
+  position: absolute;
+  left: 293px;
+  top: 396px;
+  transform: scale(-1);
+}
+.phb img.tibbit-overlay3 {
+  width: 250px;
+  position: absolute;
+  top: 398px;
+  left: 104px;
+}
+.phb img.tibbit-overlay4 {
+  width: 200px;
+  position: absolute;
+  left: 260px;
+  top: 438px;
+}
+.phb img.tibbit-overlay5 {
+  width: 350px;
+  position: absolute;
+  left: 565px;
+  top: 367px;
+}
+.phb img.tibbit-overlay6 {
+  width: 250px;
+  left: 461px;
+  top: 418px;
+  position: absolute;
+}
+.phb img.tibbit-overlay7 {
+  position: absolute;
+  left: -62px;
+  top: 443px;
+}
+.phb img.tibbit-overlay8 {
+  position: absolute;
+  left: 55px;
+  top: 439px;
+}
+.phb img.tibbit-overlay9 {
+  position: absolute;
+  left: 193px;
+  top: 439px;
+}
+.phb img.tibbit-overlay10 {
+  position: absolute;
+  right: 234px;
+  top: 439px;
+}
+.phb img.tibbit-overlay11 {
+  position: absolute;
+  right: 95px;
+  top: 429px;
+}
+.phb img.tibbit-overlay12 {
+  position: absolute;
+  right: -55px;
+  top: 435px;
+}
 /**
  * BARD
  **/
