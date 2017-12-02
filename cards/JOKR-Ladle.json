@@ -1,0 +1,322 @@
+[
+  {
+    "count": 1,
+    "title": "Cure Wounds",
+    "contents": [
+      "subtitle | 1st-level Evocation",
+      "rule |",
+      "property | Casting Time | 1 action",
+      "property | Range | Touch",
+      "property | Components | V, S",
+      "property | Duration | Instantaneous",
+      "rule |",
+      "text | A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier.",
+      "text | This spell has no effect on undead or constructs.",
+      "fill | 1",
+      "section | At higher levels",
+      "text | When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st."
+    ],
+    "tags": [
+      "spell"
+    ],
+    "color": "cornflowerblue",
+    "icon_back": "open-book",
+    "icon": "white-book-1"
+  },
+  {
+    "count": 1,
+    "title": "Hunter's Mark",
+    "contents": [
+      "subtitle | 1st-level Divination",
+      "rule |",
+      "property | Casting Time | 1 bonus action",
+      "property | Range | 90 feet",
+      "property | Components | V",
+      "property | Duration | Concentration, up to 1 hour",
+      "rule |",
+      "text | You choose a creature you can see within range and mystically mark it as your quarry.",
+      "text | Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.",
+      "fill | 1",
+      "section | At higher levels",
+      "text | When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours."
+    ],
+    "tags": [
+      "spell"
+    ],
+    "color": "cornflowerblue",
+    "icon_back": "open-book",
+    "icon": "white-book-1"
+  },
+  {
+    "count": 1,
+    "title": "Jump",
+    "contents": [
+      "subtitle | 1st-level Transmutation ",
+      "rule |",
+      "property | Casting Time | 1 action",
+      "property | Range | Touch",
+      "property | Components | V, S, M (a grasshopper's hind leg)",
+      "property | Duration | 1 minute",
+      "rule |",
+      "text | You touch a creature. The creature's jump distance is tripled until the spell ends."
+    ],
+    "tags": [
+      "spell"
+    ],
+    "color": "cornflowerblue",
+    "icon_back": "open-book",
+    "icon": "white-book-1"
+  },
+  {
+    "count": 1,
+    "title": "Footboxing",
+    "contents": [
+      "subtitle | Racial Weapon Attack",
+      "rule | ",
+      "property | Damage | 1d4 bludgeoning",
+      "property | Modifier | Strength",
+      "rule |",
+      "text | Your feet are powerful natural weapons, which you can use to make unarmed strikes.",
+      "fill |"
+    ],
+    "tags": [
+      "race"
+    ],
+    "color": "darkgoldenrod",
+    "icon": "paw-print"
+  },
+  {
+    "count": 1,
+    "title": "Powerful Leap",
+    "contents": [
+      "text | When you perform a long jump or high jump, you can double the distance you would normally cover."
+    ],
+    "tags": [
+      "race"
+    ],
+    "color": "darkgoldenrod",
+    "icon": "paw-print"
+  },
+  {
+    "count": 1,
+    "title": "Tail Roll",
+    "contents": [
+      "text | You can roll onto your tail to avoid or lessen the impact of an injury. When you take non-magical piercing, slashing, or bludgeoning damage, you can use your reaction to gain resistance against that attack. After you use this trait, you can't use it again until you finish a short or long rest."
+    ],
+    "tags": [
+      "race"
+    ],
+    "color": "darkgoldenrod",
+    "icon": "paw-print"
+  },
+  {
+    "count": 1,
+    "title": "Dungeoneer's Pack",
+    "contents": [
+      "subtitle | Equipment (12 gp)",
+      "rule | ",
+      "text | Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it."
+    ],
+    "tags": [
+      "equipment"
+    ],
+    "color": "dimgray",
+    "icon": "backpack"
+  },
+  {
+    "count": 1,
+    "title": "Javelin",
+    "contents": [
+      "subtitle | Simple Melee Weapon (5 sp)",
+      "rule |",
+      "property | Damage | 1d6 piercing",
+      "property | Modfiier | Strength",
+      "property | Properties | Thrown (range 30/120)",
+      "rule |",
+      "fill | 1",
+      "description | Thrown | If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon.",
+      "fill | 1"
+    ],
+    "tags": [
+      "equipment"
+    ],
+    "color": "dimgray",
+    "icon": "mixed-swords"
+  },
+  {
+    "count": 1,
+    "title": "Long Spear",
+    "contents": [
+      "subtitle | Martial Melee Weapon (10 gp)",
+      "rule |",
+      "property | Damage | 1d10 piercing",
+      "property | Modfiier | Strength",
+      "property | Properties | Heavy, reach, two-handed",
+      "rule |",
+      "fill | 1",
+      "description | Heavy | Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
+      "description | Reach | This weapon adds 5 feet to your reach when you attack with it.",
+      "description | Two-handed. | This weapon requires two hands to use.",
+      "fill | 1"
+    ],
+    "tags": [
+      "equipment"
+    ],
+    "color": "dimgray",
+    "icon": "crossed-swords"
+  },
+  {
+    "count": 1,
+    "title": "Quiver",
+    "contents": [
+      "subtitle | Equipment (2 gp)",
+      "rule | ",
+      "text | A quiver can hold up to 20 arrows.",
+      "fill | 1",
+      "boxes | 5",
+      "boxes | 5",
+      "boxes | 5",
+      "boxes | 5",
+      "fill | 1"
+    ],
+    "tags": [
+      "equipment"
+    ],
+    "color": "dimgray",
+    "icon": "quiver"
+  },
+  {
+    "count": 1,
+    "title": "Scale Mail",
+    "contents": [
+      "subtitle | Medium Armor (50 gp)",
+      "rule | ",
+      "property | Armor Class | 14 + Dex modifier (max 2)",
+      "property | Strength | &mdash;",
+      "property | Stealth | Disadvantage",
+      "property | Weight | 45 lb.",
+      "rule | ",
+      "text | This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets."
+    ],
+    "tags": [
+      "equipment"
+    ],
+    "color": "dimgray",
+    "icon": "scale-mail"
+  },
+  {
+    "count": 1,
+    "title": "Favored Enemy",
+    "contents": [
+      "text | You have significant experience studying, tracking, hunting, and even talking to a certain type of enemy commonly encountered in the wilds.",
+      "text | You gain a +2 bonus to damage rolls with weapon attacks against Animalkin. Additionally, you have advantage on Wisdom (Survival) checks to track Animalkin, as well as on Intelligence checks to recall information about them."
+    ],
+    "tags": [
+      "class"
+    ],
+    "color": "OliveDrab",
+    "icon": "class-ranger"
+  },
+  {
+    "count": 1,
+    "title": "Great Weapon Fighting",
+    "contents": [
+      "text | When you roll a 1 or 2 on a damage die for an Attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the Two-Handed or Versatile property for you to gain this benefit.",
+      ""
+    ],
+    "tags": [
+      "class"
+    ],
+    "color": "OliveDrab",
+    "icon": "class-ranger"
+  },
+  {
+    "count": 1,
+    "title": "Leaping Charge",
+    "contents": [
+      "text | You may spend spell points as a bonus action to make a charging leap towards another creature. You leap 10 feet, plus an additional 5 feet for each spell level higher than 1st, to a maximum of 30 feet.  You must end this leap adjacent to another creature.",
+      "text | Your next melee attack before the end of your turn deals an additional 1d8 force damage for every 5 feet of distance you traveled. If the target is prone, the damage increases by an additional 1d8."
+    ],
+    "tags": [
+      "class"
+    ],
+    "color": "OliveDrab",
+    "icon": "class-ranger"
+  },
+  {
+    "count": 1,
+    "title": "Natural Explorer",
+    "contents": [
+      "text | You are a master of navigating the natural world, and you react with swift and decisive action when attacked. This grants you the following benefits.",
+      "bullet | You ignore difficult terrain.",
+      "bullet | You have advantage on Initiative rolls.",
+      "bullet | On your first turn during combat, you have advantage on attack rolls against creatures that have not yet acted.l",
+      "text | In addition, you are skilled at navigating the wilderness. You gain the following benefits when traveling for an hour or more:",
+      "bullet | Difficult terrain doesn't slow your group's travel.",
+      "bullet | Your group can't become lost except by magical means.",
+      "bullet | Even when you are engaging in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.",
+      "bullet | When you forage, you find twice as much food as you normally would.",
+      "bullet | While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area."
+    ],
+    "tags": [
+      "class"
+    ],
+    "color": "OliveDrab",
+    "icon": "class-ranger"
+  },
+  {
+    "count": 1,
+    "title": "Primeval Awareness",
+    "contents": [
+      "text | Your mastery of ranger lore allows you to establish a powerful link to beasts and to the land around you.",
+      "text | You have the ability to communicate with beasts, and they recognize you as a kindred spirit. Through sounds and gestures, you can communicate simple ideas to a beast as an action, and can read its basic mood and intent.  You learn its emotional state, whether it is affected by magic of any sort, its short-term needs (such as food or safety), and any actions you can take (if any) to persuade it not to attack.",
+      "text | You cannot use this ability against a creature that you have attacked within the past 10 minutes.",
+      "text | Additionally, you can attune your senses to determine if any of your favored enemies lurk nearby. By spending 1 uninterrupted minute in concentration (as if you were concentrating on a spell), you can sense whether any of your favored enemies are present within 5 miles of you. This feature reveals which of your favored enemies are present, their numbers, and the creatures' general direction and distance (in miles) from you.",
+      "text | If there are multiple groups of your favored enemies within range, you learn this information for each group."
+    ],
+    "tags": [
+      "class"
+    ],
+    "color": "OliveDrab",
+    "icon": "class-ranger"
+  },
+  {
+    "count": 1,
+    "title": "Spellcasting",
+    "contents": [
+      "text | You have learned to use the magical essence of nature to cast spells, much as a druid does.",
+      "fill | 1",
+      "section | Spell Points",
+      "text | To cast a spell of 1st-level or higher, you must expend spell points.",
+      "property | 1st-level | 2 points | 2nd-level | 3 points",
+      "property | 3rd-level | 5 points | 4th-level | 7 points",
+      "property | 5th-level | 9 points",
+      "fill | 1",
+      "section | Spells Known",
+      "text | In order to cast a spell, you must first know the spell. You know a number of spells which you can use to spend your spell points.  Ask your DM which spells you know.",
+      "fill | 1",
+      "section | Spellcasting Ability",
+      "text | Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature.  You use your Wisdom whenever a spell refers to your spellcasting ability.  In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.",
+      "text | <center><b>Spell save DC</b> = 8 + your proficiency bonus + <br />your Wisdom Modifier</center>",
+      "text | <center><b>Spell attack modifier</b> = your proficiency bonus + <br />your Wisdom Modifier</center>",
+      "fill | 1"
+    ],
+    "tags": [
+      "class"
+    ],
+    "color": "OliveDrab",
+    "icon": "class-ranger"
+  },
+  {
+    "count": 1,
+    "title": "Wanderer",
+    "contents": [
+      "text | You have an excellent memory for maps and geography, and you can always recall the general layout of terrain, settlements, and other features around you.  In addition, you can find food and fresh water for yourself and up to five other people each day, provided that the land offers berries, small game, water, and so forth."
+    ],
+    "tags": [
+      "background"
+    ],
+    "color": "YellowGreen",
+    "icon": "abstract-016"
+  }
+]
