@@ -1,12 +1,12 @@
 /* Position the cover art */
 .cover-art {
-  top: -30px;
-  right: 0in;
+    top: -30px;
+    right: 0in;
 }
 
 .back-cover-art {
-  top: -30px;
-  right: -8.5in;
+    top: -30px;
+    right: -8.5in;
 }
 
 /* Recolor the footers */
@@ -17,6 +17,7 @@
 .phb#p2:after { display: none; }
 .phb#p3:after { display: none; }
 .phb#p4:after { display: none; }
+.phb#p9:after { display: none; }
 .phb#p10:after { display: none; }
 .phb#p12:after { display: none; }
 .phb:last-of-type:after { display: none; }
@@ -29,126 +30,137 @@
 
 /* Magic Items need Labels */
 .magic-item-label {
-  font-family: ScalySans;
-  font-variant: small-caps;
-  font-size: 9pt;
-  letter-spacing: 1px;
+    font-family: ScalySans;
+    font-variant: small-caps;
+    font-size: 9pt;
+    letter-spacing: 1px;
 }
 
 /************************
  * PAGE 4
  ************************/
-.phb#p5 .sword-coast-map { 
-  position: absolute;
-  width: 80%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  top: 50%;
-}
+ .phb#p5 .sword-coast-map { 
+    position: absolute;
+    width: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 50%;
+ }
 
-.phb#p5 .map-marker {
-  background: rgb(64, 0, 0); 
-  border-radius: 50% 50%; 
-  box-shadow: 0 0 4px 0px rgb(64, 0, 0); 
-  border: 1px solid rosybrown; 
-  position: absolute;
-  height: 6px;
-  width: 6px;
-}
+ .phb#p5 .map-marker {
+    background: rgb(64, 0, 0); 
+    border-radius: 50% 50%; 
+    box-shadow: 0 0 4px 0px rgb(64, 0, 0); 
+    border: 1px solid rosybrown; 
+    position: absolute;
+    height: 6px;
+    width: 6px;
+ }
 
-.phb#p5 .map-label {
-  color: rgb(96, 0, 0);
-  font-variant: small-caps;
-  position: absolute;
-  text-shadow: 0 0 4px gainsboro;
-}
+ .phb#p5 .map-label {
+    color: rgb(96, 0, 0);
+    font-variant: small-caps;
+    position: absolute;
+    text-shadow: 0 0 4px gainsboro;
+ }
 
 /************************
  * PAGE 6
  ************************/
-.phb#p7 .reidoth {
-  mix-blend-mode: darken;
-  position: absolute;
-  bottom: 10px;
-  width: 200px; 
-  left: -25px;
-}
+ .phb#p7 .reidoth {
+    mix-blend-mode: darken;
+    position: absolute;
+    bottom: 10px;
+    width: 200px; 
+    left: -25px;
+ }
 
-.phb#p7 .gundren {
-  mix-blend-mode: darken;
-  position: absolute;
-  width: 175px;
-  left: 160px;
-  bottom: 20px;
-}
+ .phb#p7 .gundren {
+    mix-blend-mode: darken;
+    position: absolute;
+    width: 175px;
+    left: 160px;
+    bottom: 20px;
+ }
 
-.phb#p7 .halia-harbin {
-  mix-blend-mode: darken;
-  position: absolute;
-  width: 295px;
-  left: 290px;
-  bottom: 20px;
-}
+ .phb#p7 .halia-harbin {
+    mix-blend-mode: darken;
+    position: absolute;
+    width: 295px;
+    left: 290px;
+    bottom: 20px;
+ }
 
-.phb#p7 .sildar {
-  mix-blend-mode: darken;
-  position: absolute;
-  width: 190px;
-  right: -15px;
-  bottom: 20px;
-}
+ .phb#p7 .sildar {
+    mix-blend-mode: darken;
+    position: absolute;
+    width: 190px;
+    right: -15px;
+    bottom: 20px;
+ }
 
-.phb#p7 .yegg {
-  mix-blend-mode: darken;
-  position: absolute;
-  width: 120px;
-  transform: scaleX(-1);
-  bottom: 25px;
-  right: 160px;
-}
+ .phb#p7 .yegg {
+    mix-blend-mode: darken;
+    position: absolute;
+    width: 120px;
+    transform: scaleX(-1);
+    bottom: 25px;
+    right: 160px;
+ }
 
 /************************
  * PAGE 7
  ************************/
-.phb#p8 .harper-pin {
-  mix-blend-mode: darken;
-  position: absolute; 
-  top: 350px; 
-  right: 300px; 
-  width: 100px;
-  -ms-transform: rotate(3deg); /* IE 9 */
-  -webkit-transform: rotate(3deg); /* Chrome, Safari, Opera */
-  transform: rotate(3deg)
-}
+ .phb#p8 .harper-pin {
+    mix-blend-mode: darken;
+    position: absolute; 
+    top: 350px; 
+    right: 300px; 
+    width: 100px;
+    -ms-transform: rotate(3deg); /* IE 9 */
+    -webkit-transform: rotate(3deg); /* Chrome, Safari, Opera */
+    transform: rotate(3deg)
+ }
 
-.phb#p8 .rune-carver {
-  position: absolute; 
-  top: 90px; 
-  right: 55px; 
-  width: 400px;
-  -ms-transform: rotate(-15deg); /* IE 9 */
-  -webkit-transform: rotate(-15deg); /* Chrome, Safari, Opera */
-  transform: rotate(-15deg)
-}
+ .phb#p8 .rune-carver {
+    position: absolute; 
+    top: 90px; 
+    right: 55px; 
+    width: 400px;
+    -ms-transform: rotate(-15deg); /* IE 9 */
+    -webkit-transform: rotate(-15deg); /* Chrome, Safari, Opera */
+    transform: rotate(-15deg)
+ }
 
-.phb#p8 .talon {
-  position: absolute; 
-  top: 75px; 
-  right: -70px; 
-  width: 350px;
-  -ms-transform: rotate(50deg); /* IE 9 */
-  -webkit-transform: rotate(50deg); /* Chrome, Safari, Opera */
-  transform: rotate(50deg);
-}
+ .phb#p8 .talon {
+    position: absolute; 
+    top: 75px; 
+    right: -70px; 
+    width: 350px;
+    -ms-transform: rotate(50deg); /* IE 9 */
+    -webkit-transform: rotate(50deg); /* Chrome, Safari, Opera */
+    transform: rotate(50deg);
+ }
+
+/************************
+ * PAGE 8
+ ************************/
+ .phb#p9 .pelanriia {
+    position: absolute; 
+    mix-blend-mode: darken; 
+    width: 50%; 
+    right: 30px; 
+    bottom: 125px;
+ }
 
 /************************
  * PAGE 9
  ************************/
-.phb#p10 .shrike {
-  mix-blend-mode: darken; 
-  position: absolute; 
-  clip: rect(0px,350px,750px,0px); 
-  right: -400px; top: 25px; 
-  width: 800px; 
-  z-index: 2;
-}
+ .phb#p10 .shrike {
+    mix-blend-mode: darken; 
+    position: absolute; 
+    clip: rect(0px,350px,750px,0px); 
+    right: -400px; top: 25px; 
+    width: 800px; 
+    z-index: 2;
+ }
