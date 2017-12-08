@@ -1,3 +1,10 @@
+.phb .contents-link {
+  position: fixed;
+    top: 60px;
+    width: 200px;
+}
+.phb .contents-link a, .phb .contents-link a:visited { color: white; text-decoration: none; }
+.phb .contents-link a:hover { text-decoration: underline; }
 
 .toc a {
   color: inherit !important;	/*toc specifically wants black text. This resets the headers*/
