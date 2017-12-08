@@ -19,6 +19,7 @@
 .phb#p2:after { display: none; }
 .phb#p3:after { display: none; }
 .phb#p4:after { display: none; }
+.phb#p5:after { display: none; }
 .phb:last-of-type:after { display: none; }
 
 /* Page 2 is really Page 1. Thanks Covers. */
@@ -30,4 +31,14 @@
   font-variant: small-caps;
   font-size: 9pt;
   letter-spacing: 1px;
+}
+
+/* Map of Eransu! */
+.phb .eransu-map {
+    position: absolute;
+    height: 90%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    clip-path: inset(0 125px);
 }
