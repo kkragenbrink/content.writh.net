@@ -11,8 +11,9 @@
   transform: scaleX(-1);
 }
 
-/* Recolor the footers */
+/* Recolor the footers and TOC Content Link */
 .phb:after { filter: hue-rotate(128deg); } /* emerald */
+.content-link { color: #F33; }
 
 /* Disable footers on these pages. */
 .phb#p1:after { display: none; }
