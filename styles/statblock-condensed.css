@@ -1,0 +1,8 @@
+.phb hr + blockquote { background: white; border: 2px solid black; box-shadow: none; }
+.phb hr + blockquote h4 { margin: 0; }
+.phb hr + blockquote h4 { }
+.phb hr + blockquote h4 code { float: right; visibility: visible; }
+.phb hr + blockquote hr { background-image: none; background-color: maroon; height: 2px; margin: 2px; }
+.phb hr + blockquote p, .phb hr + blockquote p + p { text-indent: -1em; padding-left: 1em; padding-bottom: 0; margin-bottom: 0; }
+.phb hr + blockquote p + blockquote { background: none; border: none; box-shadow: none; padding: 0 10px; margin: 0; }
+
