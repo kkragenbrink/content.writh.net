@@ -12,7 +12,7 @@
 }
 
 /* Recolor the footers */
-.phb:after { filter: hue-rotate(205deg); } /* Makes it my color! */
+.phb:after { filter: hue-rotate(128deg); } /* emerald */
 
 /* Disable footers on these pages. */
 .phb#p1:after { display: none; }
