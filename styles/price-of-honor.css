@@ -13,7 +13,7 @@
 
 /* Recolor the footers and TOC Content Link */
 .phb:after { filter: hue-rotate(128deg); } /* emerald */
-.phb .contents-link a, .phb .contents-link a:visited { color: #F33; }
+.phb .contents-link a, .phb .contents-link a:visited { color: #F33 !important; }
 
 /* Disable footers on these pages. */
 .phb#p1:after { display: none; }
