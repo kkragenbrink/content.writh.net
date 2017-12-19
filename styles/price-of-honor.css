@@ -48,4 +48,17 @@
     left: 50%;
     transform: translate(-50%, -50%);
     clip-path: inset(0 125px);
+    z-index: 1;
+    cursor: pointer;
+}
+
+/* Tokamo! */
+.phb .tokamo {
+    width: 55%; 
+
+    position: absolute; 
+    right: 0; 
+    top: 30px; 
+
+    mix-blend-mode: darken; 
 }
