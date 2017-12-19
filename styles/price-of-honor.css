@@ -41,7 +41,7 @@
 }
 
 /* Map of Eransu! */
-.phb .eransu-map {
+.phb img.eransu-map {
     position: absolute;
     height: 90%;
     top: 50%;
@@ -53,7 +53,7 @@
 }
 
 /* Tokamo! */
-.phb .tokamo {
+.phb img.tokamo {
     width: 55%; 
 
     position: absolute; 
