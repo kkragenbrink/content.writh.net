@@ -6,6 +6,11 @@
 .phb .contents-link a, .phb .contents-link a:visited { color: white; text-decoration: none; }
 .phb .contents-link a:hover { text-decoration: underline; }
 
+@media print {
+  .phb .contents-link: { display: none; }
+}
+
+
 .toc a {
   color: inherit !important;	/*toc specifically wants black text. This resets the headers*/
 }
