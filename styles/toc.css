@@ -7,7 +7,7 @@
 .phb .contents-link a:hover { text-decoration: underline; }
 
 @media print {
-  .phb .contents-link: { display: none; }
+  .phb .contents-link { display: none; }
 }
 
 
