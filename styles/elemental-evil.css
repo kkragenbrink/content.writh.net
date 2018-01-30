@@ -1,0 +1,32 @@
+/* Background */
+  .phb{ background-image: url('https://i.imgur.com/iD23LYE.jpg') }
+  .phb{ background-size: cover }
+
+/* Notes */
+  .phb blockquote {background-color: #d1d5d6}
+  .phb hr + blockquote tr:nth-child(odd) td {background-color: #FDF1DC;}
+
+/* Tables */
+  .phb hr+section blockquote tr:nth-child(odd) td {background-color:transparent; }
+  table tr:nth-child(odd) td {background-color: #d1d5d6}
+
+/* Footer */
+  .phb .pageNumber{
+    color: rgba(134, 138, 141, 1);
+    bottom           : 30px;
+  }
+  .phb .footnote{
+    color: rgba(134, 138, 141, 1);
+    bottom           : 40px;
+  }
+  .phb:after{ 
+    content          : '';
+    position         : absolute;
+    bottom           : 0px;
+    left             : 0px;
+    z-index          : -10;
+    height           : 78px;
+    width            : 100%;
+    background-image: url('https://i.imgur.com/UCVgcO5.png');
+    background-size  : cover;
+  }
