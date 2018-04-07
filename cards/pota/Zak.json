@@ -1,0 +1,138 @@
+[
+  {
+    "count": 1,
+    "title": "Animal Empathy",
+    "contents": [
+      "text | Though many learn to handle pets and train animals, rangers have a special bond with the creatures of the wild that far surpasses even the most talented of mundane trainers.",
+      "text | You can touch a willing beast of challenge rating 1/4 or lower and create a temporary bond of friendship with it. Until you use this feature on another beast, you can communicate simple ideas with the animal and understand its responses. It will follow you and attempt to carry out your instructions to the best of its ability, but it will not endanger itself and may leave if mistreated.  In combat, the beast acts on its own turn, but it will prefer to take the disengage, dodge, hide, or help action. Once you have bonded with a creature in this manner, you can't do so again until you finish a long rest.",
+      "text | The maximum challenge rating of the beast increases to 1/2 when you reach 6th level, and to 1 when you reach 14th level."
+    ],
+    "tags": [],
+    "color": "DarkOliveGreen",
+    "icon": "class-ranger"
+  },
+  {
+    "count": 1,
+    "title": "Breath Weapon",
+    "contents": [
+      "text | You can use your action to exhale a 30 foot long, 5 foot wide line of lightning.  Each creature in the area of the exhalation must make a Dexterity saving throw (DC 8 + your Constitution modifier + your proficiency bonus). A creature takes 2d6 lightning damage on a failed save, and half as much on a successful one.",
+      "text | The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.",
+      "text | After you have used your breath weapon, you can't use it again until you complete a short or long rest."
+    ],
+    "tags": [],
+    "color": "MidnightBlue",
+    "icon": "dragon-head"
+  },
+  {
+    "count": 1,
+    "title": "Fighting Style: Archery",
+    "contents": [
+      "text | You gaina  +2 bonus to attack rolls you make with ranged weapons."
+    ],
+    "tags": [],
+    "color": "DarkOliveGreen",
+    "icon": "class-ranger"
+  },
+  {
+    "count": 1,
+    "title": "Herbal Remedies",
+    "contents": [
+      "text | You learn to use your knowledge of herbal remedies and the natural healing of the body to treat a creature's wounds. During a short rest, you can aid injured creatures by applying bandages, poultices, and other herbal remedies to their wounds.",
+      "text | Choose a number of willing creatures up to your Wisdom modifier. For this short rest, whichever one of those creatures spends one or more Hit Dice to regain hit points, it can't roll less than your Wisdom modifier.",
+      "text | At 13th level, when you aid a creature in regaining hit points with your herbal remedies, you can also end one nonmagical disease or neutralize one poison affecting it."
+    ],
+    "tags": [],
+    "color": "DarkOliveGreen",
+    "icon": "class-ranger"
+  },
+  {
+    "count": 1,
+    "title": "Hunter's Quarry",
+    "contents": [
+      "text | As a bonus action on your turn, you can designate a creature within 90 feet of you who you can see as your quarry.  You deal an extra 1d6 damage to your quarry whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. ",
+      "text | You regain the use of this feature when your quarry drops to 0 hit points, or when you finish a short rest or long rest."
+    ],
+    "tags": [],
+    "color": "DarkOliveGreen",
+    "icon": "class-ranger"
+  },
+  {
+    "count": 1,
+    "title": "Nomadic Presence",
+    "contents": [
+      "text | You have adopted the ways of the nomad, learning to move more easily from place to place. Your movement speed increases by 10 feet while you aren't wearing heavy armor.",
+      "text | Additionally, when you have no movement remaining, you can cast the <i>misty step</i> spell without vocal or somatic components. Once you cast this spell with this feature, you can't do so again until you finish a short or long rest."
+    ],
+    "tags": [],
+    "color": "DarkOliveGreen",
+    "icon": "class-ranger"
+  },
+  {
+    "count": 1,
+    "title": "Psionic Influence",
+    "contents": [
+      "text | Your mind has awakened to the wild talent lying just beneath the surface.  You have gained the following psionic powers, and will gain two more when you reach 5th, 9th, 13th, and 17th levels.",
+      "description | Beast Intellect | When you use your Animal Empathy feature to bond with an animal, you imbue it with an aspect of your mind.  While bonded, its intelligence score increases by your Wisdom modifier, it gains proficiency in Wisdom and Intelligence saving throws, and you and the beast can communicate telepathically with one another while within 60 feet of each other.",
+      "description | Manifest Weapon | As a bonus action, you can conjure a weapon made of spectral force. It may take the form and statistics of any simple or martial weapon of your choice except that it is made of magical force and deals force damage. If you choose a ranged weapon, separate ammunition is not needed for it, but may be used. This weapon disappears at the end of your turn if you stop wielding it."
+    ],
+    "tags": [],
+    "color": "DarkOliveGreen",
+    "icon": "class-ranger"
+  },
+  {
+    "count": 1,
+    "title": "Ranger of the Wild",
+    "contents": [
+      "text | Your time in the wilderness has honed your survival skills and granted you the following features:",
+      "description | Forager | When you forage, you find twice as much food as you normally would.",
+      "description | Strider | Moving through nonmagical difficult terrain costs you no extra movement.",
+      "description | Tracker | While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.",
+      "description | Trapper | You add your proficiency bonus to the DC for creatures to detect or avoid the hunting traps that you place (statistics for hunting traps can be found on page 152 of the <i>Player's Handbook</i>.)",
+      "description | Trainer | You have advantage on Wisdom (Animal Handling) checks.",
+      "description | Traveler | You learn one language of your choice. You learn another at 6th level and another at 14th level."
+    ],
+    "tags": [],
+    "color": "DarkOliveGreen",
+    "icon": "class-ranger"
+  },
+  {
+    "count": 1,
+    "title": "Wendell, Owl",
+    "contents": [
+      "text | <i>Small Beast</i>",
+      "rule",
+      "property | Armor Class | 11 | Speed | 5 ft., fly 60 ft.",
+      "property | Hit Points | ______ / 11 | Hit Dice | _____ / 3d4",
+      "rule",
+      "dndstats | 3 | 13 | 12 | 4 | 12 | 7",
+      "rule",
+      "property | Saves | Intelligence -1, Wisdom +3",
+      "property | Skills | Perception +3, Stealth +3",
+      "property | Senses | darkvision 120 ft., passive Perception 13",
+      "rule",
+      "description | Flyby | The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.",
+      "description | Keen Hearing and Sight | The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.",
+      "description | Telepathic Bond | Wendell can communicate telepathically with Zak while within 60 feet of him.",
+      "fill | 1",
+      "section | Actions",
+      "description | Talons | <i>Melee Weapon Attack:</i> +3 to hit, reach 5 ft., one target. <i>Hit:</i> 1d4 + 1 slashing damage."
+    ],
+    "tags": [],
+    "color": "Maroon",
+    "icon": "owl"
+  },
+  {
+    "count": 1,
+    "title": "Wilderness Guide",
+    "contents": [
+      "text | Your adeptness at traveling and surviving in rough and untamed regions of the world allows you to lead others more easily through any environment. While traveling for an hour or more in the wilderness, you gain the following benefits:",
+      "bullet | Difficult terrain doesn't slow your group's travel.",
+      "bullet | Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.",
+      "bullet | You do not suffer the penalty to passive Wisdom (Perception) checks imposed by moving at a fast pace.",
+      "bullet | Your group can move stealthily at a normal pace."
+    ],
+    "tags": [],
+    "color": "DarkOliveGreen",
+    "icon": "class-ranger"
+  }
+]

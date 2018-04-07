@@ -1,0 +1,214 @@
+[
+  {
+    "count": 1,
+    "title": "Channel Divinity",
+    "contents": [
+      "text | Your oath allows you to fuel magical effects. When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again.",
+      "fill | 1",
+      "section | Nature's Wrath",
+      "text | You can use your Channel Divinity to invoke primeval forces to ensnare a foe. As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained.  While restrained by the vines, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the vines vanish.",
+      "fill | 1",
+      "section | Turn the Faithless",
+      "text | You can use your Channel Divinity to utter ancient words that are painful for fey and fiends to hear. As an action, you present your holy symbol, and each fey or fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.",
+      "text | A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action."
+    ],
+    "tags": [],
+    "color": "Plum",
+    "icon": "class-paladin"
+  },
+  {
+    "count": 1,
+    "title": "Darkness",
+    "contents": [
+      "text | <i>2nd-level Evocation</i>",
+      "property | Casting Time: | 1 action",
+      "property | Range: | 60 feet",
+      "property | Components: | V, M (bat fur and a drop of pitch or piece of coal)",
+      "property | Duration: | Concentration, up to 10 minutes",
+      "text | Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners.  A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it.",
+      "text | If the point you choose is an object you are holding or one that isn't being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.",
+      "text | If any of this spell's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled."
+    ],
+    "tags": [],
+    "color": "DarkSlateBlue",
+    "icon": "white-book-2"
+  },
+  {
+    "count": 1,
+    "title": "Divine Health",
+    "contents": [
+      "text | The divine magic flowing through you makes you immune to disease."
+    ],
+    "tags": [],
+    "color": "Plum",
+    "icon": "class-paladin"
+  },
+  {
+    "count": 1,
+    "title": "Divine Sense",
+    "contents": [
+      "text | The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover.  You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated,as with the <i>hallow</i> spell.",
+      "text | You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.",
+      "fill |",
+      "section | Uses",
+      "boxes | 4"
+    ],
+    "tags": [],
+    "color": "Plum",
+    "icon": "class-paladin"
+  },
+  {
+    "count": 1,
+    "title": "Divine Smite",
+    "contents": [
+      "text | When you hit a creature with a melee weapon attack, you can expend one paladin spell slot to deal radiant damage to the target, in addition to the weapon's damage.  The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8.  The damage increases by 1d8 if the target is an undead or a fiend."
+    ],
+    "tags": [],
+    "color": "Plum",
+    "icon": "class-paladin"
+  },
+  {
+    "count": 1,
+    "title": "Fighting Style: Dueling",
+    "contents": [
+      "text | When you are wieldlng a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon."
+    ],
+    "tags": [],
+    "color": "Plum",
+    "icon": "class-paladin"
+  },
+  {
+    "count": 1,
+    "title": "Hellish Rebuke",
+    "contents": [
+      "text | <i>1st-level Evocation</i>",
+      "property | Casting Time: | 1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see.",
+      "property | Range: | 60 feet",
+      "property | Components: | V, S",
+      "property | Duration: | Instantaneous",
+      "text | You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much on a successful one.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each sl ot level above 1st."
+    ],
+    "tags": [],
+    "color": "DarkSlateBlue",
+    "icon": "white-book-1"
+  },
+  {
+    "count": 1,
+    "title": "Infernal Legacy",
+    "contents": [
+      "text | You know the <i>thaumaturgy</i> cantrip. Once you reach 3rd level, you can cast the <i>hellish rebuke</i> spell once per day as a 2nd-level spell.  Once you reach 5th level, you can also cast the <i>darkness</i> spell once per day. Charisma is your spellcasting ability for these spells."
+    ],
+    "tags": [],
+    "color": "DarkSlateBlue",
+    "icon": "imp"
+  },
+  {
+    "count": 1,
+    "title": "Lay on Hands",
+    "contents": [
+      "text | Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a number of hit points equal to your paladin level x 5.",
+      "text | As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.",
+      "text | Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.",
+      "text | This feature has no effect on undead and constructs.",
+      "fill |",
+      "section | Uses",
+      "boxes | 15"
+    ],
+    "tags": [],
+    "color": "Plum",
+    "icon": "class-paladin"
+  },
+  {
+    "count": 1,
+    "title": "Oath Spell: Ensnaring Strike",
+    "contents": [
+      "text | <i>1st-level Conjuration</i>",
+      "property | Casting Time: | 1 bonus action",
+      "property | Range: | Self",
+      "property | Components: | V",
+      "property | Duration: | Concentration, up to 1 minute",
+      "text | The next time you hit a creature with a weapon attack before this spell ends, a writhing mass of thorny vines appears at the point of impact, and the target must succeed on a Strength saving throw or be <u>restrained</u> by the magical vines until the spell ends. A Large or larger creature has advantage on this saving throw. If the target succeeds on the save, the vines shrivel away.",
+      "text | While <u>restrained</u> by this spell, the target takes 1d6 piercing damage at the start of each of its turns.  A creature restrained by the vines or one that can touch the creature can use its action to make a Strength check against your spell save DC. On a success, the target is freed.",
+      "description | At Higher Levels | If you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st."
+    ],
+    "tags": [],
+    "color": "plum",
+    "icon": "white-book-1"
+  },
+  {
+    "count": 1,
+    "title": "Oath Spell: Speak with Animals",
+    "contents": [
+      "text | <i>1st-level Divination (ritual)</i>",
+      "property | Casting Time | 1 action",
+      "property | Range | Self",
+      "property | Components | V, S",
+      "property | Duration | 10 minutes",
+      "text | You gain the ability to comprehend and verbally communicate with beasts for the duration.  The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day.  You might be able to persuade a beast to perform a small favor for you at the DM's discretion."
+    ],
+    "tags": [],
+    "color": "plum",
+    "icon": "white-book-1"
+  },
+  {
+    "count": 1,
+    "title": "Spellcasting",
+    "contents": [
+      "text | <i>You have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does.</i>",
+      "rule |",
+      "property | Spell Save DC | 13 | Spell Attack Modifier | +5",
+      "fill | 1",
+      "section | Preparing and Casting Spells",
+      "text | You may prepare a number of Paladin spells of 1st-level or higher equal to your Charisma modifier + half your paladin level, rounded down.  The spells must be of a level for which you have spell slots.",
+      "text | Additionally, you gain access to those spells provided by your Oath. These do not count against the number of spells you can prepare each day.",
+      "text | You can change your list of prepared spells when you finish a long rest.  Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.",
+      "fill | 1",
+      "section | Spell Slots",
+      "property | 1st-level | <font size=3>☐☐☐</font>",
+      "fill | 1",
+      ""
+    ],
+    "tags": [],
+    "color": "Plum",
+    "icon": "class-paladin"
+  },
+  {
+    "count": 1,
+    "title": "Thaumaturgy",
+    "contents": [
+      "text | <i>Transmutation Cantrip</i>",
+      "property | Casting Time: | 1 action",
+      "property | Range: | 30 feet",
+      "property | Components: | V",
+      "property | Duration: | Up to 1 minute",
+      "text | You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:",
+      "bullet | Your voice booms up to three times as loud as normal for 1 minute.",
+      "bullet | You cause flames to flicker, brighten, dim, or change color for 1 minute.",
+      "bullet | You cause harmless tremors in the ground for 1 minute.",
+      "bullet | You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.",
+      "bullet | You instantaneously cause an unlocked door or window to fly open or slam shut.",
+      "bullet | You alter the appearance of your eyes for 1 minute.",
+      "text | If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action."
+    ],
+    "tags": [],
+    "color": "DarkSlateBlue",
+    "icon": "white-book-0"
+  },
+  {
+    "count": 1,
+    "title": "Oath Spell: Comprehend Languages",
+    "contents": [
+      "text | <i>1st-level Divination (ritual)</i>",
+      "property | Casting Time | 1 action",
+      "property | Range | Self",
+      "property | Components | V, S, M (a pinch of soot and salt)",
+      "property | Duration | 1 hour",
+      "text | For the duration, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.",
+      "text | This spell doesn't decode secret messages in a text or a glyph, such as an arcane sigil, that isn't part of a written language."
+    ],
+    "tags": [],
+    "color": "plum",
+    "icon": "white-book-1"
+  }
+]

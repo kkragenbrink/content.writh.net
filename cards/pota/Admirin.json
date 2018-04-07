@@ -1,0 +1,205 @@
+[
+  {
+    "count": 1,
+    "title": "Breath Weapon",
+    "contents": [
+      "text | You can use your action to exhale a 30 foot long, 5 foot wide line of lightning.  Each creature in the area of the exhalation must make a Dexterity saving throw (DC 8 + your Constitution modifier + your proficiency bonus). A creature takes 2d6 lightning damage on a failed save, and half as much on a successful one.",
+      "text | The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.",
+      "text | After you have used your breath weapon, you can't use it again until you complete a short or long rest."
+    ],
+    "tags": [],
+    "color": "MidnightBlue",
+    "icon": "dragon-head"
+  },
+  {
+    "count": 1,
+    "title": "Tempestuous Magic",
+    "contents": [
+      "text | You can use a bonus action on your turn to cause whirling gusts of elemental air to briefly surround you, immediately before or after you cast a spell of 1st level or higher. Doing so allows you to fly up to 10 feet without provoking opportunity attacks."
+    ],
+    "tags": [],
+    "color": "DarkRed",
+    "icon": "class-sorcerer"
+  },
+  {
+    "count": 1,
+    "title": "Font of Magic",
+    "contents": [
+      "text | You have tapped into a deep wellspring of magic within yourself.  This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.",
+      "fill | 1",
+      "section | Flexible Casting",
+      "text | You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points as you reach higher levels.",
+      "description | Creating Spell Slots | You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. You can create spell slots no higher in level than 5th.  Any spell slot you create with this feature vanishes when you finish a long rest. ",
+      "text | <table width=\"100%\" cellspacing=0 style=\"text-align: center;\"><tr style=\"background: lightgrey;\"><th>Spell SLot Level</th><th>Sorcery Point Cost</th></tr><tr><td>1st</td><td>2</td></tr><tr style=\"background: lightgrey;\"><td>2nd</td><td>3</td></tr><tr><td>3rd</td><td>5</td></tr><tr style=\"background: lightgrey;\"><td>4th</td><td>6</td></tr><tr><td>5th</td><td>7</td></tr></table>",
+      "description | Converting a Spell Slot to Sorcery Points | As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.",
+      "fill | 1",
+      "section | Sorcery Points",
+      "boxes  | 3 | 2"
+    ],
+    "tags": [],
+    "color": "DarkRed",
+    "icon": "class-sorcerer"
+  },
+  {
+    "count": 1,
+    "title": "Metamagic",
+    "contents": [
+      "section | Quickened Spell",
+      "text | When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.  If you cast a spell of 1st-level or higher with this ability, you may not cast a spell more powerful than a cantrip with your action.",
+      "section | Twinned Spell",
+      "text | When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip)."
+    ],
+    "tags": [],
+    "color": "DarkRed",
+    "icon": "class-sorcerer"
+  },
+  {
+    "count": 1,
+    "title": "Spellcasting",
+    "contents": [
+      "text | <i>You draw on the magic of your ancestors, fueling arcane power.</i>",
+      "rule | ",
+      "property | Spell Save DC | 13 | Spell Attack Modifier | +5",
+      "fill | 1",
+      "section | Spells Known and Casting Spells",
+      "text | You learn spells as you level, but cannot learn them from books or scrolls.  To cast one of the spells you know, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
+      "fill | 1",
+      "section | Spell Slots",
+      "property| 1st-level | <font size=3>☐☐☐☐</font>",
+      "property | 2nd-level | <font size=3>☐☐</font>",
+      "fill | 1"
+    ],
+    "tags": [],
+    "color": "DarkRed",
+    "icon": "class-sorcerer"
+  },
+  {
+    "count": 1,
+    "title": "Light",
+    "contents": [
+      "text | <i>Evocation cantrip</i>",
+      "property | Casting Time: | 1 action",
+      "property | Range: | Touch",
+      "property | Components: | V, M (a firefly or phosphorescent moss)",
+      "property | Duration | 1 hour",
+      "text | You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet.  The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.",
+      "text | If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell."
+    ],
+    "tags": [],
+    "color": "DarkRed",
+    "icon": "white-book-0"
+  },
+  {
+    "count": 1,
+    "title": "Lightning Lure",
+    "contents": [
+      "text | <i>Evocation cantrip</i>",
+      "property | Casting Time: | 1 action",
+      "property | Range: | 15 feet",
+      "property | Components: | V",
+      "property | Duration | Instantaneous",
+      "text | You create a lash of lightning energy that strikes one creature of your choice that you can see within range.  The target must succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you, and then take 1d8 lightning damage if it is within 5 feet of you.",
+      "text | The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8) and 17th level (4d8)."
+    ],
+    "tags": [],
+    "color": "DarkRed",
+    "icon": "white-book-0"
+  },
+  {
+    "count": 1,
+    "title": "Shocking Bolt",
+    "contents": [
+      "text | <i>Evocation cantrip</i>",
+      "property | Casting Time: | 1 action",
+      "property | Range: | 120 feet",
+      "property | Components: | V, S",
+      "property | Duration | Instantaneous",
+      "text | You hurl a jolt of lightning at a creature within range.  Make a ranged spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d6 lightning damage, and it can't take reactions until the start of its next turn.",
+      "text | The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6)."
+    ],
+    "tags": [],
+    "color": "DarkRed",
+    "icon": "white-book-0"
+  },
+  {
+    "count": 1,
+    "title": "Thunderclap",
+    "contents": [
+      "text | <i>Evocation cantrip</i>",
+      "property | Casting Time: | 1 action",
+      "property | Range: | Self (5-foot radius)",
+      "property | Components: | S",
+      "property | Duration | Instantaneous",
+      "text | You create a burst of thunderous sound, which can be heard 100 feet away.  Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.",
+      "text | The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6)."
+    ],
+    "tags": [],
+    "color": "DarkRed",
+    "icon": "white-book-0"
+  },
+  {
+    "count": 1,
+    "title": "Feather Fall",
+    "contents": [
+      "text | <i>1st-level Transmutation</i>",
+      "property | Casting Time: | 1 reaction, which you take when you or a creature within 60 feet of you falls.",
+      "property | Range: | 60 feet",
+      "property | Components: | V, M (a small feather or a piece of down)",
+      "property | Duration | 1 minute",
+      "text | Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends.  If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature."
+    ],
+    "tags": [],
+    "color": "DarkRed",
+    "icon": "white-book-1"
+  },
+  {
+    "count": 1,
+    "title": "Thunderwave",
+    "contents": [
+      "text | <i>1st-level Evocation</i>",
+      "property | Casting Time: | 1 action",
+      "property | Range: | Self (15-foot cube)",
+      "property | Components: | V, S",
+      "property | Duration | Instantaneous",
+      "text | A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw.  On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed.",
+      "text | In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st."
+    ],
+    "tags": [],
+    "color": "DarkRed",
+    "icon": "white-book-1"
+  },
+  {
+    "count": 1,
+    "title": "Witch Bolt",
+    "contents": [
+      "text | <i>1st-level Evocation</i>",
+      "property | Casting Time: | 1 action",
+      "property | Range: | 30 feet",
+      "property | Components: | V, S, M (a twig from a tree that has been struck by lightning)",
+      "property | Duration | Concentration, up to 1 minute",
+      "text | A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.",
+      "text | Make a ranged spell attack against that creature.  On a hit, the target takes 1d12 lightning damage, and on each of your turns for the duration, you can use your action to deal 1d12 lightning damage to the target automatically.  The spell ends if you use your action to do anything else.  The spell also ends if the target is ever outside the spell's range or if it has total cover from you.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 2nd level or higher, the initial damage increases by 1d12 for each slot level above 1st."
+    ],
+    "tags": [],
+    "color": "DarkRed",
+    "icon": "white-book-1"
+  },
+  {
+    "count": 1,
+    "title": "Shatter",
+    "contents": [
+      "text | <i>1st-level Evocation</i>",
+      "property | Casting Time: | 1 action",
+      "property | Range: | 60 feet",
+      "property | Components: | V, S, M (a chip of mica)",
+      "property | Duration | Instantaneous",
+      "text | A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range.  Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.  A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 3rd-level or higher, the damage increases by 1d8 for each slot level above 2nd."
+    ],
+    "tags": [],
+    "color": "DarkRed",
+    "icon": "white-book-2"
+  }
+]

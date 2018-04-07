@@ -1,0 +1,282 @@
+[
+  {
+    "count": 1,
+    "title": "Combat Wildshape",
+    "contents": [
+      "text | You can use your bonus action to magically assume the shape of a beast that you have seen before. You can use this feature twice. You regain expended uses when you finish a short or long rest.",
+      "text | You can stay in beast shape for a number of hours equal to half your druid level, rounded down.",
+      "text | While you are transformed, the following rules apply:",
+      "bullet | Your game statistics are replaced by the statistics of the beast, except your Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature.",
+      "bullet | When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. Any damage done beyond the creature's hit points applies to your normal form.",
+      "bullet | You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form.",
+      "text | While you are transformed, you can use a bonus action to expend one spell slot to regain 1d8 hit points per level of the spell slot expended.",
+      "fill | 1",
+      "section | Uses",
+      "boxes | 2 | 2"
+    ],
+    "tags": [
+      "druid"
+    ],
+    "color": "Olive",
+    "icon": "class-druid"
+  },
+  {
+    "count": 1,
+    "title": "Firbolg Magic",
+    "contents": [
+      "text | You can cast <i>detect magic</i> and <i>disguise self</i> with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a short or long rest.  WHen you use this version of <i>disguise self</i>, you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with humans and elves."
+    ],
+    "tags": [
+      "racial"
+    ],
+    "color": "LightSteelBlue",
+    "icon": "troll"
+  },
+  {
+    "count": 1,
+    "title": "Hidden Step",
+    "contents": [
+      "text | As a bonus action, you can magically turn <u>invisible</u> until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can't use it again until you finish a short or long rest."
+    ],
+    "tags": [
+      "racial"
+    ],
+    "color": "LightSteelBlue",
+    "icon": "troll"
+  },
+  {
+    "count": 1,
+    "title": "Powerful Build",
+    "contents": [
+      "text | You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+    ],
+    "tags": [
+      "racial"
+    ],
+    "color": "LightSteelBlue",
+    "icon": "troll"
+  },
+  {
+    "count": 1,
+    "title": "Speech of Beast and Leaf",
+    "contents": [
+      "text | You have the ability to communicate in a limited manner with beasts and plants. They can understand the meaning of your words, though you have no special ability to understand them in return.  You have advantage on all Charisma checks you make to influence them."
+    ],
+    "tags": [
+      "racial"
+    ],
+    "color": "LightSteelBlue",
+    "icon": "troll"
+  },
+  {
+    "count": 1,
+    "title": "Spellcasting",
+    "contents": [
+      "text | <i>Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your own will.</i>",
+      "rule | ",
+      "property | Spell Save DC | 15 | Spell Attack Modifier | +7",
+      "fill | 1",
+      "section | Preparing and Casting Spells",
+      "text | You may prepare a number of Druid spells of 1st-level or higher equal to your Wisdom modifier + your Proficiency bonus. Choose these spells from the list of druid spells provided by your DM at the start of each day.  To cast one of these spells, you must expend a slot of the spell's level or higher.  You regain all expended spell slots when you finish a long rest.",
+      "fill | 1",
+      "section | Spell Slots",
+      "property | 1st-level | <font size=3>☐☐☐☐</font> ",
+      "property | 2nd-level | <font size=3>☐☐</font>",
+      "fill | 1",
+      "section | Ritual Casting",
+      "text | You can cast a druid spell without expending a spell slot if that spell has the ritual tag and you have the spell prepared."
+    ],
+    "tags": [
+      "druid"
+    ],
+    "color": "Olive",
+    "icon": "class-druid"
+  },
+  {
+    "count": 1,
+    "title": "Wildshape: Brown Bear",
+    "contents": [
+      "text | <i>Large beast</i>",
+      "rule",
+      "property | Armor Class | 11 | Speed | 40 ft.",
+      "property | Hit Points | ___ / 34 | Hit Dice | ___ / 4d10",
+      "rule",
+      "dndstats | 19 | 10 | 16 | 13 | 20 | 16",
+      "rule",
+      "property | Saves | Intelligence +3, Wisdom +7",
+      "property | Skills | Animal Handling +7, Nature +3, Perception +7, <br />Survival +7",
+      "property | Senses | darkvision 60 ft.",
+      "rule",
+      "description | Keen Smell | The bear has advantage on Wisdom (Perception) checks that rely on smell.",
+      "fill | 1",
+      "section | Actions",
+      "description | Multiattack | The bear makes two attacks: one with its bite and one with its claws.",
+      "description | Bite | <i>Melee Weapon Attack:</i> +6 to hit, reach 5 ft., one target. <i>Hit:</i> 1d8 + 4 piercing damage",
+      "description | Claw | <i>Melee Weapon Attack:</i> +6 to hit, reach 5 ft., one target. <i>Hit:</i> 2d6 + 4 slashing damage"
+    ],
+    "tags": [
+      "druid"
+    ],
+    "color": "maroon",
+    "icon": "class-druid"
+  },
+  {
+    "count": 1,
+    "title": "Wildshape: Dire Wolf",
+    "contents": [
+      "text | <i>Large beast</i>",
+      "rule",
+      "property | Armor Class | 14 | Speed | 40 ft.",
+      "property | Hit Points | ___ / 37 | Hit Dice | ___ / 5d10",
+      "rule",
+      "dndstats | 17 | 15 | 15 | 13 | 20 | 16",
+      "rule",
+      "property | Saves | Intelligence +3, Wisdom +7",
+      "property | Skills | Animal Handling +7, Nature +3, Perception +7, <br />Stealth +4, Survival +7",
+      "rule",
+      "description | Keen Hearing and Smell | The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+      "description | Pack Tactics | The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+      "fill | 1",
+      "section | Actions",
+      "description | Bite | <i>Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 2d6 + 3 piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone."
+    ],
+    "tags": [
+      "druid"
+    ],
+    "color": "maroon",
+    "icon": "class-druid"
+  },
+  {
+    "count": 1,
+    "title": "Wildshape: Giant Hyena",
+    "contents": [
+      "text | <i>Large beast</i>",
+      "rule",
+      "property | Armor Class | 12 | Speed | 40 ft.",
+      "property | Hit Points | ___ / 45 | Hit Dice | ___ / 6d10",
+      "rule",
+      "dndstats | 16 | 14 | 14 | 13 | 20 | 16",
+      "rule",
+      "property | Saves | Intelligence +3, Wisdom +7",
+      "property | Skills | Animal Handling +7, Nature +3, Perception +7, <br />Survival +7",
+      "rule",
+      "description | Rampage | When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.",
+      "fill | 1",
+      "section | Actions",
+      "description | Bite | <i>Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 2d6 + 3 piercing damage"
+    ],
+    "tags": [
+      "druid"
+    ],
+    "color": "maroon",
+    "icon": "class-druid"
+  },
+  {
+    "count": 1,
+    "title": "Wildshape: Tiger",
+    "contents": [
+      "text | <i>Large beast</i>",
+      "rule",
+      "property | Armor Class | 12 | Speed | 40 ft.",
+      "property | Hit Points | ___ / 37 | Hit Dice | ___ / 5d10",
+      "rule",
+      "dndstats | 17 | 15 | 14 | 13 | 20 | 16",
+      "rule",
+      "property | Saves | Intelligence +3, Wisdom +7",
+      "property | Skills | Animal Handling +7, Nature +3, Perception +7, <br />Stealth +6, Survival +7",
+      "property | Senses | darkvision 60 ft.",
+      "rule",
+      "description | Keen Smell | The tiger has advantage on Wisdom (Perception) checks that rely on smell.",
+      "description | Pounce | If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.",
+      "fill | 1",
+      "section | Actions",
+      "description | Bite | <i>Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 1d10 + 3 piercing damage",
+      "description | Claw | <i>Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 1d8 + 3 slashing damage"
+    ],
+    "tags": [
+      "druid"
+    ],
+    "color": "maroon",
+    "icon": "class-druid"
+  },
+  {
+    "count": 1,
+    "title": "Wildshape: ZZZ",
+    "contents": [
+      ""
+    ],
+    "tags": [
+      "druid"
+    ],
+    "color": "white",
+    "icon": "class-druid"
+  },
+  {
+    "count": 1,
+    "title": "Wildshape: ZZZ",
+    "contents": [
+      ""
+    ],
+    "tags": [
+      "druid"
+    ],
+    "color": "white",
+    "icon": "class-druid"
+  },
+  {
+    "count": 1,
+    "title": "Disguise Self",
+    "contents": [
+      "text | <i>1st-level Illusion</i>",
+      "property | Casting Time: | 1 action",
+      "property | Range: | Self",
+      "property | Components: | V, S",
+      "property | Duration: | 1 hour",
+      "text | You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends or until you use your action to dismiss it.  You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.",
+      "text | The changes wrought by this spell fail to hold up to physical inspection. For example, if you use the spell to add a hat to your outfit, objects pass through the hat and anyone who touches it would feel nothing or would feel your head and hair.  If you use this spell to appear thinner than you are,t he hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.",
+      "text | To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC."
+    ],
+    "tags": [],
+    "color": "LightSteelBlue",
+    "title_size": "",
+    "icon": "troll"
+  },
+  {
+    "count": 1,
+    "title": "Druidcraft",
+    "contents": [
+      "text | <i>Transmutation cantrip</i>",
+      "property | Casting Time: | 1 action",
+      "property | Range: | 30 feet",
+      "property | Components: | V, S",
+      "property | Duration: | Instantaneous",
+      "text | Whispering to the spirits of nature, you create one of the following effects within range:",
+      "bullet | You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours.  The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on.  This effect persists for 1 round.",
+      "bullet | You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.",
+      "bullet | You create an instantaneous harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of a skunk. The effect must fit in a 5-foot cube.",
+      "bullet | You instantly light or snuff out a candle, a torch, or a small campfire."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "title_size": "",
+    "icon": "white-book-0"
+  },
+  {
+    "count": 1,
+    "title": "Produce Flame",
+    "contents": [
+      "text | <i>Conjuration cantrip</i>",
+      "property | Casting Time: | 1 action",
+      "property | Range: | Self",
+      "property | Components: | V, S",
+      "property | Duration: | 10 minutes",
+      "text | A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment. THe flame sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The spell ends if you dismiss it as an action or if you cast it again.",
+      "text | You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 fire damage.",
+      "text | The spell's damage increases by 1d8 when you reach 5th level (2d8) 11th level (3d8) and 17th level (4d8)."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "title_size": "",
+    "icon": "white-book-0"
+  }
+]

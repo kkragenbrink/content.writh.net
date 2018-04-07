@@ -1,0 +1,243 @@
+[
+  {
+    "count": 1,
+    "title": "Bardic Inspiration",
+    "contents": [
+      "text | You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you.  That creature gains one Bardic Inspiration die, a d6.",
+      "text | Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes.  The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.",
+      "text | You can use this feature a number of times equal to your Charisma modifier. You regain any expended uses when you finish a long rest.",
+      "text | Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.",
+      "fill | 1",
+      "section | Uses",
+      "boxes | 2"
+    ],
+    "tags": [],
+    "color": "MediumPurple",
+    "icon": "class-bard"
+  },
+  {
+    "count": 1,
+    "title": "Blade Flourish",
+    "contents": [
+      "text | Whenever you take the Attack action on your turn, your walking speed increases by 10 feet until the end of the turn, and if a weapon attack that you make as part of this action hits a creature, you can use one of the following Blade Flourish options of your choice. You can only use one Blade Flourish option per turn.",
+      "description | Defensive Flourish | You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit.  The damage equals the number you roll on the Bardic Inspiration die. You also add the number rolled to your AC until the start of your next turn.",
+      "description | Slashing Flourish | You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit and to any other creature of your choice that you can see within 5 feet of you. The damage equals the number you roll on the Bardic Inspiration die.",
+      "description | Mobile Flourish | You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit.  The damage equals the number you roll on the Bardic Inspiration die. You can also push the target up to 5 feet away from you, plus a number of feet equal to the number you roll on the die. You can then immediately use your reaction to move up to your walking speed to an unoccupied space within 5 feet of the target."
+    ],
+    "tags": [],
+    "color": "MediumPurple",
+    "icon": "class-bard"
+  },
+  {
+    "count": 1,
+    "title": "Dwarven Resilience",
+    "contents": [
+      "text | You have advantage on saving throws against poison, and you have resistance against poison damage."
+    ],
+    "tags": [],
+    "color": "BurlyWood",
+    "icon": "dwarf-face"
+  },
+  {
+    "count": 1,
+    "title": "Dwarven Toughness",
+    "contents": [
+      "text | Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus."
+    ],
+    "tags": [],
+    "color": "BurlyWood",
+    "icon": "dwarf-face"
+  },
+  {
+    "count": 1,
+    "title": "Fighting Style: Dueling",
+    "contents": [
+      "text | When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon."
+    ],
+    "tags": [],
+    "color": "MediumPurple",
+    "icon": "class-bard"
+  },
+  {
+    "count": 1,
+    "title": "Jack of All Trades",
+    "contents": [
+      "text | You can add half your proficiency bonus, rounded down, to an ability check you make that doesn't already include your proficiency bonus."
+    ],
+    "tags": [],
+    "color": "MediumPurple",
+    "icon": "class-bard"
+  },
+  {
+    "count": 1,
+    "title": "Song of Rest",
+    "contents": [
+      "text | You can use soothing music or oration to help revitalize your wounded allies during a short rest.  If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest, each of those creatures regains an extra 1d6 hit points.",
+      "text | The extra hit points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level."
+    ],
+    "tags": [],
+    "color": "MediumPurple",
+    "icon": "class-bard"
+  },
+  {
+    "count": 1,
+    "title": "Spellcasting",
+    "contents": [
+      "text | <i>You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music.</i>",
+      "rule |",
+      "property | Spell Save DC | 12 | Spell Attack Modifier | +4",
+      "fill | 1",
+      "section | Spells Known and Casting Spells",
+      "text | You learn spells as you level, but cannot learn them from books or scrolls.  To cast one of the spells you know, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
+      "fill | 1",
+      "section | Spell Slots",
+      "property| 1st-level | <font size=3>☐☐☐☐</font>",
+      "property | 2nd-level | <font size=3>☐☐</font>",
+      "fill | 1",
+      "section | Ritual Casting",
+      "text | You can cast any bard spell you know as a ritual if that spell has the ritual tag.",
+      "fill | 1"
+    ],
+    "tags": [],
+    "color": "MediumPurple",
+    "icon": "class-bard"
+  },
+  {
+    "count": 1,
+    "title": "Stonecunning",
+    "contents": [
+      "text | Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus."
+    ],
+    "tags": [],
+    "color": "BurlyWood",
+    "icon": "dwarf-face"
+  },
+  {
+    "count": 1,
+    "title": "Message",
+    "contents": [
+      "text | <i>Transmutation cantrip</i>",
+      "property | Casting Time: | 1 action",
+      "property | Range: | 120 feet",
+      "property | Components: | V, S, M (a short piece of copper wire)",
+      "property | Duration: | 1 round",
+      "text | You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.",
+      "text | You can cast this spell through solid objects if you are familiar with the target and you know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell.  The spell doesn't have to follow a straight line and can travel freely around corners or through openings."
+    ],
+    "tags": [],
+    "color": "MediumPurple",
+    "icon": "white-book-0"
+  },
+  {
+    "count": 1,
+    "title": "Vicious Mockery",
+    "contents": [
+      "text | <i>Enchantment cantrip</i>",
+      "property | Casting Time: | 1 action",
+      "property | Range: | 60 feet",
+      "property | Components: | V",
+      "property | Duration: | Instantaneous",
+      "text | You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn. ",
+      "text | This spell’s damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4)."
+    ],
+    "tags": [],
+    "color": "MediumPurple",
+    "icon": "white-book-0"
+  },
+  {
+    "count": 1,
+    "title": "Bane",
+    "contents": [
+      "text | <i>1st-level Enchantment</i>",
+      "property | Casting Time: | 1 action",
+      "property | Range: | 30 feet",
+      "property | Components: | V, S, M (a drop of blood)",
+      "property | Duration: | Concentration, up to 1 minute",
+      "text | Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st."
+    ],
+    "tags": [],
+    "color": "MediumPurple",
+    "icon": "white-book-0"
+  },
+  {
+    "count": 1,
+    "title": "Cure Wounds",
+    "contents": [
+      "text | <i>1st-level Evocation</i>",
+      "property | Casting Time: | 1 action",
+      "property | Range: | Touch",
+      "property | Components: | V, S",
+      "property | Duration: | Instantaneous",
+      "text | A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st."
+    ],
+    "tags": [],
+    "color": "MediumPurple",
+    "icon": "white-book-0"
+  },
+  {
+    "count": 1,
+    "title": "Healing Word",
+    "contents": [
+      "text | <i>1st-level Evocation</i>",
+      "property | Casting Time: | 1 bonus action",
+      "property | Range: | 60 feet",
+      "property | Components: | V",
+      "property | Duration: | Instantaneous",
+      "text | A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st."
+    ],
+    "tags": [],
+    "color": "MediumPurple",
+    "icon": "white-book-0"
+  },
+  {
+    "count": 1,
+    "title": "Heroism",
+    "contents": [
+      "text | <i>1st-level Enchantment</i>",
+      "property | Casting Time: | 1 action",
+      "property | Range: | Touch",
+      "property | Components: | V, S",
+      "property | Duration: | Concentration, up to 1 minute",
+      "text | A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st."
+    ],
+    "tags": [],
+    "color": "MediumPurple",
+    "icon": "white-book-0"
+  },
+  {
+    "count": 1,
+    "title": "Cloud of Daggers",
+    "contents": [
+      "text | <i>2nd-level Conjuration</i>",
+      "property | Casting Time: | 1 action",
+      "property | Range: | 60 feet",
+      "property | Components: | V, S, M (a sliver of glass)",
+      "property | Duration: | Concentration, up to 1 minute",
+      "text | You fill the air with spinning daggers in a cube 5 feet on each side, centered on a point you choose within range. A creature takes 4d4 slashing damage when it enters the spell's area for the first time on a turn or starts its turn there.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 2d4 for each slot level above 2nd."
+    ],
+    "tags": [],
+    "color": "MediumPurple",
+    "icon": "white-book-0"
+  },
+  {
+    "count": 1,
+    "title": "Invisibility",
+    "contents": [
+      "text | <i>2nd-level Illusion</i>",
+      "property | Casting Time: | 1 action",
+      "property | Range: | Touch",
+      "property | Components: | V, S, M (an eyelash encased in gum arabic)",
+      "property | Duration: | Concentration, up to 1 hour",
+      "text | A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd."
+    ],
+    "tags": [],
+    "color": "MediumPurple",
+    "icon": "white-book-0"
+  }
+]

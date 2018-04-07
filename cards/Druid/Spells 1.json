@@ -1,0 +1,362 @@
+[
+  {
+    "count": 1,
+    "title": "Absorb Elements",
+    "contents": [
+      "text | <i>1st-level Abjuration</i>",
+      "property | Casting Time | 1 reaction, which you take when you take acid, cold, fire, lightning, or thunder damage",
+      "property | Range | Self",
+      "property | Components | S",
+      "property | Duration | 1 round",
+      "text | This spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack.  You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type and the spell ends.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  },
+  {
+    "count": 1,
+    "title": "Animal Friendship",
+    "contents": [
+      "text | <i>1st-level Enchantment</i>",
+      "property | Casting Time | 1 action",
+      "property | Range | 30 feet",
+      "property | Components | V, S, M (a morsel of food)",
+      "property | Duration | 24 hours",
+      "text | This spell lets you convince a beast that you mean it no harm.  Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. otherwise the beast must succeed on a Wisdom saving throw or be charmed by you for the spell's duration.  If you or one of your companions harms the target, the spell ends.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  },
+  {
+    "count": 1,
+    "title": "Beast Bond",
+    "contents": [
+      "text | <i>1st-level Divination</i>",
+      "property | Casting Time | 1 action",
+      "property | Range | Touch",
+      "property | Components | V, S, M (a bit of fur wrapped in a cloak)",
+      "property | Duration | Concentration, up to 10 minutes",
+      "text | You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast's Intelligence score is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you.  While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  },
+  {
+    "count": 1,
+    "title": "Charm Person",
+    "contents": [
+      "text | <i>1st-level Enchantment</i>",
+      "property | Casting Time | 1 action",
+      "property | Range | 30 feet",
+      "property | Components | V, S",
+      "property | Duration | 1 hour",
+      "text | You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it.  If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it.  The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  },
+  {
+    "count": 1,
+    "title": "Create or Destroy Water",
+    "contents": [
+      "text | <i>1st-level Transmutation</i>",
+      "property | Casting Time | 1 action",
+      "property | Range | 30 feet",
+      "property | Components | V, S, M (a drop of water if creating water, or a few grains of sand if destroying it)",
+      "property | Duration | Instantaneous",
+      "text | You either create or destroy water.",
+      "description | Create Water | You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot cube within range, extinguishing exposed flames in the area.",
+      "description | Destroy Water | You destroy up to 10 gallons of water in an open container within range. Alternatively you destroy fog in a 30-foot cube within range.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  },
+  {
+    "count": 1,
+    "title": "Cure Wounds",
+    "contents": [
+      "text | <i>1st-level Evocation</i>",
+      "property | Casting Time | 1 action",
+      "property | Range | Touch",
+      "property | Components | V, S",
+      "property | Duration | Instantaneous",
+      "text | A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  },
+  {
+    "count": 1,
+    "title": "Detect Magic",
+    "contents": [
+      "text | <i>1st-level Divination (ritual)</i>",
+      "property | Casting Time | 1 action",
+      "property | Range | Self",
+      "property | Components | V, S",
+      "property | Duration | Concentration, up to 10 minutes",
+      "text | For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.",
+      "text | The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  },
+  {
+    "count": 1,
+    "title": "Detect Poison and Disease",
+    "contents": [
+      "text | <i>1st-level Divination (ritual)</i>",
+      "property | Casting Time | 1 action",
+      "property | Range | Self",
+      "property | Components | V, S, M (a yew leaf)",
+      "property | Duration | Concentration, up to 10 minutes",
+      "text | For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case.",
+      "text | The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  },
+  {
+    "count": 1,
+    "title": "Earth Tremor",
+    "contents": [
+      "text | <i>1st-level Evocation</i>",
+      "property | Casting Time | 1 action",
+      "property | Range | 10 feet",
+      "property | Components | V, S",
+      "property | Duration | Instantaneous",
+      "text | You cause a tremor in the ground within range. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  },
+  {
+    "count": 1,
+    "title": "Entangle",
+    "contents": [
+      "text | <i>1st-level Conjuration</i>",
+      "property | Casting Time | 1 action",
+      "property | Range | 90 feet",
+      "property | Components | V, S",
+      "property | Duration | Concentration, up to 1 minute",
+      "text | Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain.",
+      "text | A creature in the area when you cast the spell must succeed on a Strength saving throw or be <u>restrained</u> by the entangling plants until the spell ends.  A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.",
+      "text | When the spell ends, the conjured plants wilt away."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  },
+  {
+    "count": 1,
+    "title": "Faerie Fire",
+    "contents": [
+      "text | <i>1st-level Evocation</i>",
+      "property | Casting Time | 1 action",
+      "property | Range | 60 feet",
+      "property | Components | V",
+      "property | Duration | Concentration, up to 1 minute",
+      "text | Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10 foot radius.",
+      "text | Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  },
+  {
+    "count": 1,
+    "title": "Fog Cloud",
+    "contents": [
+      "text | <i>1st-level Conjuration</i>",
+      "property | Casting Time | 1 action",
+      "property | Range | 120 feet",
+      "property | Components | V, S",
+      "property | Duration | Concentration, up to 1 hour",
+      "text | You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 2nd level or higher, the radius of the fog increases by 20 feet for each slot level above 1st."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  },
+  {
+    "count": 1,
+    "title": "Goodberry",
+    "contents": [
+      "text | <i>1st-level Transmutation</i>",
+      "property | Casting Time | 1 action",
+      "property | Range | Touch",
+      "property | Components | V, S, M (a sprig of mistletoe)",
+      "property | Duration | Instantaneous",
+      "text | Up to 10 berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry.  Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day.",
+      "text | The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  },
+  {
+    "count": 1,
+    "title": "Healing Word",
+    "contents": [
+      "text | <i>1st-level Evocation</i>",
+      "property | Casting Time | 1 bonus action",
+      "property | Range | 60 feet",
+      "property | Components | V",
+      "property | Duration | Instantaneous",
+      "text | A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier.  This spell has no effect on undead or constructs.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  },
+  {
+    "count": 1,
+    "title": "Ice Knife",
+    "contents": [
+      "text | <i>1st-level Conjuration</i>",
+      "property | Casting Time | 1 action",
+      "property | Range | 60 feet",
+      "property | Components | S, M (a drop of water or a piece of ice)",
+      "property | Duration | Instantaneous",
+      "text | You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target.  On a hit, the target takes 10 piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of it must succeed on a Dexterity saving throw or take 2d6 cold damage.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 2nd level or higher, the cold damage increases by 1d6 for each slot level above 1st."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  },
+  {
+    "count": 1,
+    "title": "Jump",
+    "contents": [
+      "text | <i>1st-level Transmutation</i>",
+      "property | Casting Time | 1 action",
+      "property | Range | Touch",
+      "property | Components | V, S, M (a grasshopper's hind leg)",
+      "property | Duration | 1 minute",
+      "text | You touch a creature. The creature's jump distance is tripled until the spell ends."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  },
+  {
+    "count": 1,
+    "title": "Longstrider",
+    "contents": [
+      "text | <i>1st-level Transmutation</i>",
+      "property | Casting Time | 1 action",
+      "property | Range | Touch",
+      "property | Components | V, S, M (a pinch of dirt)",
+      "property | Duration | 1 hour",
+      "text | You touch a creature. The creature's speed increases by 10 feet until the spell ends.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  },
+  {
+    "count": 1,
+    "title": "Purify Food and Drink",
+    "contents": [
+      "text | <i>1st-level Transmutation (ritual)</i>",
+      "property | Casting Time | 1 action",
+      "property | Range | 10 feet",
+      "property | Components | V, S",
+      "property | Duration | Instantaneous",
+      "text | All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  },
+  {
+    "count": 1,
+    "title": "Snare",
+    "contents": [
+      "text | <i>1st-level Abjuration</i>",
+      "property | Casting Time | 1 minute ",
+      "property | Range | Touch",
+      "property | Components | S, M (25 feet of rope, which the spell consumes)",
+      "property | Duration | 8 hours",
+      "text | As you cast this spell, you use the rope to create a circle with a 5-foot radius on the ground or the floor. WHen you finish casting, the rope disappears and the circle becomes a magic trap.",
+      "text | This trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned.",
+      "text | The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell's radius. The creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor.  The creature is <u>restrained</u> there until the spell ends.",
+      "text | A restrained creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself as a success.   Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect ends.",
+      "text | After the trap is triggered the spell ends when no creature is restrained by it."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  },
+  {
+    "count": 1,
+    "title": "Speak with Animals",
+    "contents": [
+      "text | <i>1st-level Divination (ritual)</i>",
+      "property | Casting Time | 1 action",
+      "property | Range | Self",
+      "property | Components | V, S",
+      "property | Duration | 10 minutes",
+      "text | You gain the ability to comprehend and verbally communicate with beasts for the duration.  The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day.  You might be able to persuade a beast to perform a small favor for you at the DM's discretion."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  },
+  {
+    "count": 1,
+    "title": "Thunderwave",
+    "contents": [
+      "text | <i>1st-level Evocation</i>",
+      "property | Casting Time | 1 action",
+      "property | Range | Self (15-foot cube)",
+      "property | Components | V, S",
+      "property | Duration | Instantaneous",
+      "text | A wafve of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you.  On a successful save, the creature takes half as much damage and isn't pushed.",
+      "text | In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.",
+      "description | At Higher Levels | When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st."
+    ],
+    "tags": [],
+    "color": "Olive",
+    "icon": "white-book-1",
+    "icon_back": "open-book"
+  }
+]
