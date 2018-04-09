@@ -1,10 +1,15 @@
-.phb .contents-link {
+.phb .contents-link a {
+  background: url(https://content.writh.net/images/toc-icon.png);
+  filter: brightness(0) invert(1);
+  background-size: 30px 30px;
+  width: 30px;
+  height: 30px;
   position: fixed;
-    top: 60px;
-    width: 200px;
+  right: 25px;
+  bottom: 0px;
+  display: block;
+  color: transparent;
 }
-.phb .contents-link a, .phb .contents-link a:visited { color: white; text-decoration: none; }
-.phb .contents-link a:hover { text-decoration: underline; }
 
 @media print {
   .phb .contents-link { display: none; }
