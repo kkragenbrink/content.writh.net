@@ -1,0 +1,110 @@
+.phb {
+    background-color: #FCFCFC;
+    background-image: none;
+    height: 215.9mm;
+    width: 279.4mm;
+}
+
+.phb p {
+    text-align: justify;
+}
+
+.phb:after {
+    display: none;
+}
+
+.phb .pageNumber {
+    position: absolute;
+    bottom: 1em;
+    width: 100%;
+    font-size: 1em;
+    color: grey;
+    text-align: center;
+}
+
+.phb h1 {
+    color: sienna;
+    font-family: "ArnovaITC TT";
+}
+
+.phb h1 + p::first-letter {
+    float: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+    line-height: normal;
+}
+
+.phb h1 + table {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.phb h1 + table thead {
+    display: none;
+}
+
+.phb h1 + table tr {
+    background: transparent !important;
+    color: sienna;
+    font-family: "Clubhouse";
+    font-size: 1.2em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.phb h2, .phb h3, .phb h4 {
+    border-bottom: none;
+    color: black;
+    font-family: "Treefrog2";
+    font-weight: normal;
+}
+
+.phb blockquote {
+    background: #EEE;
+}
+
+.phb blockquote h5 {
+    font-family: "ArnovaITC TT"
+}
+
+.phb blockquote h5 + p {
+    text-indent: 1em;
+}
+
+img.portrait {
+    border: 2px solid black;
+    filter: grayscale(1);
+    margin-bottom: 4px;
+    width: 125px; 
+}
+
+img.portrait.left { float: left; margin-right: 4px; }
+img.portrait.right { float: right; margin-left: 4px; }
+
+.phb hr+section blockquote {
+    background: #DDD;
+    border-image: none;
+    border: 1px solid black;
+}
+
+.phb hr+section blockquote hr {
+    background-image: none;
+    border-bottom: 2px solid sienna;
+}
+
+.phb hr+hr+section blockquote {
+    column-count: 1;
+}
+
+.phb hr+hr+section blockquote tr {
+    background: transparent !important;
+}
+
+.phb hr+hr+section blockquote {
+    columns: 2
+}
+
+.phb div.descriptive {
+    background: #EFEFEF;
+}
