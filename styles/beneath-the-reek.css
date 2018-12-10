@@ -108,3 +108,7 @@ img.portrait.right { float: right; margin-left: 4px; }
 .phb div.descriptive {
     background: #EFEFEF;
 }
+
+.phb table tbody tr:nth-child(odd) {
+    background-color: rgba(158,94,52,.2);
+}
